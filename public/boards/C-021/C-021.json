@@ -1,0 +1,144 @@
+{
+  "id": "com.usegdi.C-021",
+  "boardInfo": {
+    "name": "ChitChat",
+    "imageUrl": "https://gui-guy.com/preview.png",
+    "description": "Talk with GPT.",
+    "fields": [
+      {
+        "label": "input",
+        "content": "Prompt"
+      },
+      {
+        "label": "output",
+        "content": "3d conversation"
+      },
+      {
+        "label": "engines",
+        "content": "LLM #1, LLM #2, ElevenLabs"
+      }
+    ],
+    "isPlayback": true,
+    "showIntro": false
+  },
+  "adapters": {
+    "playbackAdapterUrl": "/boards/C-021/adapters/C-021.db.json",
+    "promptAdapterUrl": "/boards/C-021/adapters/C-021.prompt.json",
+    "dbAdapterUrl": "/boards/C-021/adapters/C-021.db.json"
+  },
+  "examplesUrl": "/boards/C-021/C-021.examples.json",
+  "siblingsUrl": "/boards/siblings.json",
+  "dependencies": {
+    "@gdi/store-base": "^0.0.4",
+    "@gdi/ui": "^0.0.1",
+    "@gdi/widgets-starter": "^0.0.6"
+  },
+  "elements": {
+    "default": {
+      "e1": {
+        "id": "e1",
+        "widgetId": "com.usegdi.starter.logo",
+        "title": "Logo",
+        "position": {
+          "x": 2,
+          "y": 2
+        },
+        "dimension": {
+          "x": 20,
+          "y": 6
+        },
+        "boardId": "C-021",
+        "flags": {}
+      },
+      "e2": {
+        "id": "e2",
+        "widgetId": "com.usegdi.starter.youtube",
+        "title": "youtube",
+        "position": {
+          "x": 56,
+          "y": 5
+        },
+        "dimension": {
+          "x": 63,
+          "y": 17
+        },
+        "boardId": "C-021",
+        "flags": {},
+        "props": {
+          "videoId": "LWiM-LuRe6w",
+          "autoSize": true
+        }
+      },
+      "e3": {
+        "id": "e3",
+        "widgetId": "com.usegdi.starter.variables",
+        "title": "variables",
+        "position": {
+          "x": 56,
+          "y": 2
+        },
+        "dimension": {
+          "x": 63,
+          "y": 3
+        },
+        "boardId": "C-021",
+        "flags": {},
+        "props": {}
+      },
+      "e4": {
+        "id": "e4",
+        "widgetId": "com.usegdi.starter.flow",
+        "title": "Flow",
+        "position": {
+          "x": 5,
+          "y": 3
+        },
+        "dimension": {
+          "x": 44,
+          "y": 25
+        },
+        "boardId": "C-021",
+        "flags": {},
+        "props": {
+          "nodesUrl": "/boards/C-021/C-021.nodes.json"
+        }
+      },
+      "e5": {
+        "id": "e5",
+        "widgetId": "com.usegdi.starter.transcript",
+        "title": "Transcript",
+        "position": {
+          "x": 56,
+          "y": 22
+        },
+        "dimension": {
+          "x": 63,
+          "y": 24
+        },
+        "boardId": "C-021",
+        "flags": {},
+        "props": {
+          "transcriptLinesUrl": "/boards/C-021/C-021.transcript.json"
+        }
+      },
+      "e6": {
+        "id": "e6",
+        "widgetId": "com.usegdi.starter.subtext",
+        "title": "Subtext",
+        "position": {
+          "x": 2,
+          "y": 28
+        },
+        "dimension": {
+          "x": 53,
+          "y": 18
+        },
+        "boardId": "C-021",
+        "flags": {},
+        "props": {
+          "transcriptLinesUrl": "/boards/C-021/C-021.transcript.json"
+        }
+      }
+    }
+  }
+}

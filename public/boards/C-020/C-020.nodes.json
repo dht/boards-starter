@@ -1,0 +1,27 @@
+{
+  "n1": {
+    "id": "n1",
+    "nodeType": "llm",
+    "label": "Send message",
+    "promptTemplate": {
+      "content": "Generate a conversation between 3 students (sam, alex and rachel) about ${prompt}"
+    },
+    "model": {
+      "modelType": "openAI",
+      "modelName": "text-davinci-033",
+      "temperature": 0.7
+    },
+    "position": { "x": 250, "y": 0 },
+    "connectors": ["n2"],
+    "duration": 32,
+    "price": 10,
+    "tokensCount": 150
+  },
+  "n2": {
+    "id": "n2",
+    "label": "Respond",
+    "nodeType": "goal",
+    "position": { "x": 250, "y": 150 },
+    "connectors": []
+  }
+}

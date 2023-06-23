@@ -1,0 +1,105 @@
+{
+  "id": "com.usegdi.C-003",
+  "boardInfo": {
+    "name": "ChitChat",
+    "imageUrl": "https://gui-guy.com/preview.png",
+    "description": "Talk with GPT.",
+    "fields": [
+      {
+        "label": "input",
+        "content": "Prompt"
+      },
+      {
+        "label": "output",
+        "content": "3d conversation"
+      },
+      {
+        "label": "engines",
+        "content": "LLM #1, LLM #2, ElevenLabs"
+      }
+    ],
+    "isPlayback": true,
+    "showIntro": false
+  },
+  "adapters": {
+    "playbackAdapterUrl": "/boards/C-003/adapters/C-003.db.json",
+    "promptAdapterUrl": "/boards/C-003/adapters/C-003.prompt.json",
+    "dbAdapterUrl": "/boards/C-003/adapters/C-003.db.json"
+  },
+  "examplesUrl": "/boards/C-003/C-003.examples.json",
+  "siblingsUrl": "/boards/siblings.json",
+  "dependencies": {
+    "@gdi/store-base": "^0.0.4",
+    "@gdi/ui": "^0.0.1",
+    "@gdi/widgets-starter": "^0.0.6"
+  },
+  "elements": {
+    "default": {
+      "e1": {
+        "id": "e1",
+        "widgetId": "com.usegdi.starter.logo",
+        "title": "Logo",
+        "position": {
+          "x": 2,
+          "y": 2
+        },
+        "dimension": {
+          "x": 20,
+          "y": 6
+        },
+        "boardId": "C-003",
+        "flags": {}
+      },
+      "e2": {
+        "id": "e2",
+        "widgetId": "com.usegdi.starter.chat",
+        "title": "chat",
+        "position": {
+          "x": 56,
+          "y": 4
+        },
+        "dimension": {
+          "x": 63,
+          "y": 42
+        },
+        "boardId": "C-003",
+        "flags": {},
+        "props": {}
+      },
+      "e3": {
+        "id": "e3",
+        "widgetId": "com.usegdi.starter.variables",
+        "title": "variables",
+        "position": {
+          "x": 56,
+          "y": 2
+        },
+        "dimension": {
+          "x": 63,
+          "y": 3
+        },
+        "boardId": "C-003",
+        "flags": {},
+        "props": {}
+      },
+      "e4": {
+        "id": "e4",
+        "widgetId": "com.usegdi.starter.flow",
+        "title": "Flow",
+        "position": {
+          "x": 5,
+          "y": 7
+        },
+        "dimension": {
+          "x": 44,
+          "y": 40
+        },
+        "boardId": "C-003",
+        "flags": {},
+        "props": {
+          "nodesUrl": "/boards/C-003/C-003.nodes.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "n1": {
+    "id": "n1",
+    "nodeType": "api",
+    "label": "Youtube transcript",
+    "api": {
+      "modelType": "openAI",
+      "modelName": "text-davinci-021",
+      "temperature": 0.7
+    },
+    "position": { "x": 250, "y": 0 },
+    "connectors": ["n2"]
+  },
+  "n2": {
+    "id": "n2",
+    "nodeType": "llm",
+    "label": "Analyize fallacies",
+    "promptTemplate": {
+      "content": "Find logical fallacies and inaccuries in the following youtube video"
+    },
+    "model": {
+      "modelType": "openAI",
+      "modelName": "GPT-4",
+      "temperature": 0.7
+    },
+    "position": { "x": 250, "y": 100 },
+    "connectors": ["n3"]
+  },
+  "n3": {
+    "id": "n3",
+    "label": "Add markings",
+    "nodeType": "outcome",
+    "position": { "x": 250, "y": 200 },
+    "connectors": []
+  }
+}

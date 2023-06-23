@@ -1,0 +1,12 @@
+{
+  "tone": {
+    "id": "tone",
+    "value": "pirate",
+    "options": ["mideavel king", "budha", "albert einstein", "yiddish grandmather"]
+  },
+  "model": {
+    "id": "model",
+    "value": "gpt-3.5",
+    "options": ["gpt-3.5", "gpt-4", "gpt-4-bing", "gpt-4-plugins"]
+  }
+}

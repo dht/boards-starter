@@ -1,0 +1,97 @@
+{
+    "id": "A005",
+    "raw": "\n\nArnold: Hey guys, have you ever played Yu-Gi-Oh?\n\nRachel: Yeah, I used to play it a lot when I was younger.\n\nSam: I've heard of it, but never played it. What's it all about?\n\nArnold: It's a trading card game where you battle with monsters and spells against other players.\n\nRachel: The goal is to reduce your opponent's life points to zero before they do the same to you.\n\nSam: That sounds pretty cool. How do you play?\n\nArnold: Each card has a set of stats and abilities that you can use to attack your opponent's monsters or activate different effects.\n\nRachel: There are also different types of monsters, like dragons, zombies, and warriors, and different elements like fire, water, and wind.\n\nSam: Whoa, there are a lot of cards to keep track of. Is it hard to play?\n\nArnold: It can be a little overwhelming at first, but once you get the hang of it, it's really fun.\n\nRachel: Plus, there are different formats you can play, like casual matches or tournaments.\n\nSam: I think I might have to give it a try.\n\nArnold: Definitely! We can have a Yu-Gi-Oh night and teach you how to play.",
+    "sentences": [
+        {
+            "id": "l-0",
+            "speakerName": "Arnold",
+            "text": " Hey guys, have you ever played Yu-Gi-Oh?",
+            "audioUrl": "line-1.mp3",
+            "textPhonetics": "\"Hey gaɪz, hæv ju ɛvər pleɪd juː gi oʊ?\""
+        },
+        {
+            "id": "l-1",
+            "speakerName": "Rachel",
+            "text": " Yeah, I used to play it a lot when I was younger.",
+            "audioUrl": "line-2.mp3",
+            "textPhonetics": "\"Yeah, ai juːst tu pleɪ ɪt ə lɑt wɛn ai wəz jʌŋgər.\""
+        },
+        {
+            "id": "l-2",
+            "speakerName": "Sam",
+            "text": " I've heard of it, but never played it. What's it all about?",
+            "audioUrl": "line-3.mp3",
+            "textPhonetics": "aɪv hɜrd ʌv ɪt, bʌt nɛvər pleɪd ɪt. wɑts ɪt ɔl əbaʊt?"
+        },
+        {
+            "id": "l-3",
+            "speakerName": "Arnold",
+            "text": " It's a trading card game where you battle with monsters and spells against other players.",
+            "audioUrl": "line-4.mp3",
+            "textPhonetics": "ɪts ə tɹeɪdɪŋ kɑːd ɡeɪm wɛə juː bætəl wɪð mɒnstərz ənd spɛlz əɡɛnst ʌðər pleɪəz."
+        },
+        {
+            "id": "l-4",
+            "speakerName": "Rachel",
+            "text": " The goal is to reduce your opponent's life points to zero before they do the same to you.",
+            "audioUrl": "line-5.mp3",
+            "textPhonetics": "ðə gōl ɪz tu rəˈdus jɔr əˈpoʊnənts laɪf pɔɪnts tu ˈzɪroʊ bɪˈfɔr ðeɪ du ðə seɪm tu ju."
+        },
+        {
+            "id": "l-5",
+            "speakerName": "Sam",
+            "text": " That sounds pretty cool. How do you play?",
+            "audioUrl": "line-6.mp3",
+            "textPhonetics": "/ðæt saʊndz ˈprɪti kul. haʊ du jʊ pleɪ/"
+        },
+        {
+            "id": "l-6",
+            "speakerName": "Arnold",
+            "text": " Each card has a set of stats and abilities that you can use to attack your opponent's monsters or activate different effects.",
+            "audioUrl": "line-7.mp3",
+            "textPhonetics": "/iːʧ kɑrd hæz ə set əv stæts ænd əˈbɪlətiz ðæt ju kæn yus tu əˈtæk jɔr əˈpoʊnənt's ˈmɑnstərz ɔr ˈæktəveɪt ˈdɪfərənt ɪˈfɛkts/."
+        },
+        {
+            "id": "l-7",
+            "speakerName": "Rachel",
+            "text": " There are also different types of monsters, like dragons, zombies, and warriors, and different elements like fire, water, and wind.",
+            "audioUrl": "line-8.mp3",
+            "textPhonetics": "ðɛr ɑr ɔlso ˈdɪfrənt taɪps əv ˈmɑnstərz, laɪk ˈdrægənz, ˈzɑmbiz, ənd ˈworjərz, ənd ˈdɪfrənt ˈɛləmənts laɪk ˈfaɪr, ˈwɔtər, ənd ˈwɪnd."
+        },
+        {
+            "id": "l-8",
+            "speakerName": "Sam",
+            "text": " Whoa, there are a lot of cards to keep track of. Is it hard to play?",
+            "audioUrl": "line-9.mp3",
+            "textPhonetics": "\"Woʊ, ðɛr ɑr ə lɒt ʌv kɑrdz tu kip træk ʌv. ɪz ɪt hɑrd tu pleɪ?\""
+        },
+        {
+            "id": "l-9",
+            "speakerName": "Arnold",
+            "text": " It can be a little overwhelming at first, but once you get the hang of it, it's really fun.",
+            "audioUrl": "line-10.mp3",
+            "textPhonetics": "/ɪt kæn bi ə lɪtəl oʊvərwɛlmɪŋ æt fɜrst bʌt wʌns ju ɡɛt ðə hæŋ ʌv ɪt ɪts rɪli fʌn/"
+        },
+        {
+            "id": "l-10",
+            "speakerName": "Rachel",
+            "text": " Plus, there are different formats you can play, like casual matches or tournaments.",
+            "audioUrl": "line-11.mp3",
+            "textPhonetics": "plʌs ðɛr ɑr ˈdɪfərənt ˈfɔrmæts ju kən pleɪ, laɪk ˈkæʒuəl ˈmætʃɪz ɔr ˈtʊrnmənts."
+        },
+        {
+            "id": "l-11",
+            "speakerName": "Sam",
+            "text": " I think I might have to give it a try.",
+            "audioUrl": "line-12.mp3",
+            "textPhonetics": "aɪ θɪŋk aɪ maɪt hæv tu ɡɪv ɪt ə traɪ."
+        },
+        {
+            "id": "l-12",
+            "speakerName": "Arnold",
+            "text": " Definitely! We can have a Yu-Gi-Oh night and teach you how to play.",
+            "audioUrl": "line-13.mp3",
+            "textPhonetics": "/dɛfɪnɪtli! wi kæn hæv ə ju-gi-oʊ naɪt ənd tiʧ ju haʊ tu pleɪ./"
+        }
+    ]
+}

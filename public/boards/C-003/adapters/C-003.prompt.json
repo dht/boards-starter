@@ -1,0 +1,9 @@
+{
+  "providerType": "AI-RUNNER",
+  "baseUrl": "http://10.100.102.49",
+  "port": 4000,
+  "paths": {
+    "create": "/jobs",
+    "logs": "/jobs/:jobId/logs"
+  }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "014c",
+    "raw": "Arnold: \"I love dogs, they are my favorite animals.\"\nRachel: \"I have a golden retriever and it is the best companion.\"\nSam: \"I am allergic to dogs, unfortunately I can't have one as a pet.\"",
+    "sentences": [
+        {
+            "id": "l-0",
+            "speakerName": "Arnold",
+            "text": " \"I love dogs, they are my favorite animals.\"",
+            "audioUrl": "line-1.mp3",
+            "textPhonetics": "\"I lʌv dɔgz, ðeɪ ɑr maɪ feɪvərɪt ˈænəməlz.\""
+        },
+        {
+            "id": "l-1",
+            "speakerName": "Rachel",
+            "text": " \"I have a golden retriever and it is the best companion.\"",
+            "audioUrl": "line-2.mp3",
+            "textPhonetics": "aɪ hæv ə ɡoʊldən rɪtriːvər ænd ɪt ɪz ðə bɛst kəmˈpænjən."
+        },
+        {
+            "id": "l-2",
+            "speakerName": "Sam",
+            "text": " \"I am allergic to dogs, unfortunately I can't have one as a pet.\"",
+            "audioUrl": "line-3.mp3",
+            "textPhonetics": "aɪ æm əˈlɜrdʒɪk tə dɑgz, ʌnˈfɔrtʃənɪtli aɪ kænt hæv wʌn æz ə pɛt."
+        }
+    ]
+}

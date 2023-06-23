@@ -1,0 +1,90 @@
+{
+  "id": "com.usegdi.C-020",
+  "boardInfo": {
+    "name": "ChitChat",
+    "imageUrl": "https://gui-guy.com/preview.png",
+    "description": "Talk with GPT.",
+    "fields": [
+      {
+        "label": "input",
+        "content": "Prompt"
+      },
+      {
+        "label": "output",
+        "content": "3d conversation"
+      },
+      {
+        "label": "engines",
+        "content": "LLM #1, LLM #2, ElevenLabs"
+      }
+    ],
+    "isPlayback": true,
+    "showIntro": false
+  },
+  "adapters": {
+    "playbackAdapterUrl": "/boards/C-020/adapters/C-020.db.json",
+    "promptAdapterUrl": "/boards/C-020/adapters/C-020.prompt.json",
+    "dbAdapterUrl": "/boards/C-020/adapters/C-020.db.json"
+  },
+  "examplesUrl": "/boards/C-020/C-020.examples.json",
+  "siblingsUrl": "/boards/siblings.json",
+  "dependencies": {
+    "@gdi/store-base": "^0.0.4",
+    "@gdi/ui": "^0.0.1",
+    "@gdi/widgets-starter": "^0.0.6"
+  },
+  "elements": {
+    "default": {
+      "e1": {
+        "id": "e1",
+        "widgetId": "com.usegdi.starter.logo",
+        "title": "Logo",
+        "position": {
+          "x": 2,
+          "y": 2
+        },
+        "dimension": {
+          "x": 20,
+          "y": 6
+        },
+        "boardId": "C-020",
+        "flags": {}
+      },
+      "e2": {
+        "id": "e2",
+        "widgetId": "com.usegdi.starter.multi",
+        "title": "Multi",
+        "position": {
+          "x": 56,
+          "y": 3
+        },
+        "dimension": {
+          "x": 63,
+          "y": 43
+        },
+        "boardId": "C-020",
+        "flags": {},
+        "props": {
+          "multiUrl": "/boards/C-020/C-020.multi.json",
+          "dataUrl": "/boards/siblings.json"
+        }
+      },
+      "e4": {
+        "id": "e4",
+        "widgetId": "com.usegdi.starter.welcome",
+        "title": "Welcome",
+        "position": {
+          "x": 5,
+          "y": 7
+        },
+        "dimension": {
+          "x": 48,
+          "y": 35
+        },
+        "boardId": "C-020",
+        "flags": {},
+        "props": {}
+      }
+    }
+  }
+}

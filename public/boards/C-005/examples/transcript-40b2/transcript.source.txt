@@ -1,0 +1,21 @@
+Arnold: Hey guys, have you ever heard of BabylonJS graphics engine?
+
+Rachel: Hmm, no I haven't. What is it?
+
+Sam: I think I heard about it before. Isn't it a 3D game engine?
+
+Arnold: Yes, that's right. It is a powerful web-based graphics engine used for creating interactive 3D experiences on the web.
+
+Rachel: Interesting. What kind of features does it have?
+
+Arnold: Well, it supports platforms like WebGL and WebVR. It has a lot of features like shaders, physics engine, collision detection, and animation tools. I heard it's also really easy to use.
+
+Sam: Sounds cool. Have you tried using it before?
+
+Arnold: Not yet, but I'm planning to try it out soon. I'm really interested in creating some 3D web experiences.
+
+Rachel: Same here. It sounds like a really useful tool for web development.
+
+Sam: Definitely. I'll have to check it out myself. Thanks for bringing it up, Arnold.
+
+Arnold: No problem, guys. Can't wait to start using it!

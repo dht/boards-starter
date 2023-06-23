@@ -1,0 +1,199 @@
+{
+  "id": "com.usegdi.C-005",
+  "boardInfo": {
+    "name": "Conversation in the Park",
+    "imageUrl": "https://gui-guy.com/preview.png",
+    "description": "3 teenagers talking about a topic given in the prompt. Mouth shapes & voice. This board demonstrates AI engine orchestration via node-graphs.",
+    "fields": [
+      {
+        "label": "input",
+        "content": "Prompt"
+      },
+      {
+        "label": "output",
+        "content": "3d conversation"
+      },
+      {
+        "label": "engines",
+        "content": "LLM #1, LLM #2, ElevenLabs"
+      }
+    ],
+    "isPlayback": true,
+    "showIntro": false
+  },
+  "adapters": {
+    "playbackAdapterUrl": "/boards/C-005/adapters/C-005.db.json",
+    "promptAdapterUrl": "/boards/C-005/adapters/C-005.prompt.json",
+    "dbAdapterUrl": "/boards/C-005/adapters/C-005.db.json"
+  },
+  "examplesUrl": "/boards/C-005/C-005.examples.json",
+  "siblingsUrl": "/boards/siblings.json",
+  "dependencies": {
+    "@gdi/store-base": "^0.0.4",
+    "@gdi/ui": "^0.0.1",
+    "@gdi/widgets-starter": "^0.0.6"
+  },
+  "elements": {
+    "default": {
+      "e1": {
+        "id": "e1",
+        "widgetId": "com.usegdi.starter.logo",
+        "title": "Logo",
+        "position": {
+          "x": 2,
+          "y": 2
+        },
+        "dimension": {
+          "x": 20,
+          "y": 6
+        },
+        "boardId": "C-005",
+        "flags": {}
+      },
+      "e2": {
+        "id": "e2",
+        "widgetId": "com.usegdi.starter.babylon",
+        "title": "babylon",
+        "position": {
+          "x": 56,
+          "y": 2
+        },
+        "dimension": {
+          "x": 63,
+          "y": 24
+        },
+        "boardId": "C-005",
+        "flags": {},
+        "props": {
+          "sceneUrl": "/boards/C-005/scene.park.json"
+        }
+      },
+      "e3": {
+        "id": "e3",
+        "widgetId": "com.usegdi.starter.transcript",
+        "title": "Transcript",
+        "position": {
+          "x": 56,
+          "y": 27
+        },
+        "dimension": {
+          "x": 63,
+          "y": 19
+        },
+        "boardId": "C-005",
+        "flags": {},
+        "flavour": "outcome"
+      },
+      "e4": {
+        "id": "e4",
+        "widgetId": "com.usegdi.starter.flow",
+        "title": "Flow",
+        "position": {
+          "x": 5,
+          "y": 7
+        },
+        "dimension": {
+          "x": 44,
+          "y": 40
+        },
+        "boardId": "C-005",
+        "flags": {},
+        "props": {
+          "nodesUrl": "/boards/C-005/C-005.nodes.json"
+        }
+      },
+      "e5": {
+        "id": "e5",
+        "widgetId": "com.usegdi.starter.github",
+        "title": "Github",
+        "position": {
+          "x": 52,
+          "y": 44
+        },
+        "dimension": {
+          "x": 1,
+          "y": 1
+        },
+        "boardId": "C-005",
+        "flags": {}
+      },
+      "e6": {
+        "id": "e6",
+        "widgetId": "com.usegdi.starter.playback",
+        "title": "Playback",
+        "position": {
+          "x": 57,
+          "y": 3
+        },
+        "dimension": {
+          "x": 25,
+          "y": 5
+        },
+        "boardId": "C-005",
+        "flags": {}
+      },
+      "e7": {
+        "id": "e7",
+        "widgetId": "com.usegdi.starter.mode",
+        "title": "Mode",
+        "position": {
+          "x": 110,
+          "y": 1
+        },
+        "dimension": {
+          "x": 16,
+          "y": 2
+        },
+        "boardId": "C-005",
+        "flags": {}
+      },
+      "e8": {
+        "id": "e8",
+        "widgetId": "com.usegdi.starter.logger",
+        "title": "Logger",
+        "position": {
+          "x": 56,
+          "y": 27
+        },
+        "dimension": {
+          "x": 63,
+          "y": 19
+        },
+        "boardId": "C-005",
+        "flags": {},
+        "flavour": "prepare"
+      },
+      "e9": {
+        "id": "e9",
+        "widgetId": "com.usegdi.starter.start-play",
+        "title": "StartPlay",
+        "position": {
+          "x": 56,
+          "y": 27
+        },
+        "dimension": {
+          "x": 63,
+          "y": 19
+        },
+        "boardId": "C-005",
+        "flags": {},
+        "flavour": "default"
+      },
+      "e10": {
+        "id": "e10",
+        "widgetId": "com.usegdi.starter.sound-player",
+        "title": "SoundPlayer",
+        "position": {
+          "x": 115,
+          "y": 24
+        },
+        "dimension": {
+          "x": 1,
+          "y": 1
+        },
+        "boardId": "C-005",
+        "flags": {}
+      }
+    }
+  }
+}

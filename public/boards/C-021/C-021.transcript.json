@@ -1,0 +1,2641 @@
+[
+  {
+    "id": "line-0",
+    "speakerName": "Harari",
+    "timestamp": 0,
+    "duration": 19220,
+    "text": "foreign [Music]"
+  },
+  {
+    "id": "line-1",
+    "speakerName": "Harari",
+    "timestamp": 19220,
+    "duration": 5200,
+    "text": "thank you for this wonderful introduction and yes what I want to talk to you about"
+  },
+  {
+    "id": "line-2",
+    "speakerName": "Harari",
+    "timestamp": 24420,
+    "duration": 6300,
+    "text": "is AI in the future of humanity now I know that this conference is focused on"
+  },
+  {
+    "id": "line-3",
+    "speakerName": "Harari",
+    "timestamp": 30720,
+    "duration": 7800,
+    "text": "the ecological crisis facing Humanity but for better All For Worse ai2 is part"
+  },
+  {
+    "id": "line-4",
+    "speakerName": "Harari",
+    "timestamp": 38520,
+    "duration": 7559,
+    "text": "of this crisis AI can help us in many ways to overcome the ecological crisis"
+  },
+  {
+    "id": "line-5",
+    "speakerName": "Harari",
+    "timestamp": 46079,
+    "duration": 5401,
+    "text": "or it can make it far far worse actually"
+  },
+  {
+    "id": "line-6",
+    "speakerName": "Harari",
+    "timestamp": 51480,
+    "duration": 7680,
+    "text": "AI will probably change the very meaning of the ecological system because for 4"
+  },
+  {
+    "id": "line-7",
+    "speakerName": "Harari",
+    "timestamp": 59160,
+    "duration": 6959,
+    "text": "billion years the ecological system of planet Earth contained only organic life"
+  },
+  {
+    "id": "line-8",
+    "speakerName": "Harari",
+    "timestamp": 66119,
+    "duration": 8281,
+    "text": "forms and now or soon we might see the emergence of the first inorganic life"
+  },
+  {
+    "id": "line-9",
+    "speakerName": "Harari",
+    "timestamp": 74400,
+    "duration": 9480,
+    "text": "forms to 4 billion years or at the very least the emergence of inorganic agents"
+  },
+  {
+    "id": "line-10",
+    "speakerName": "Harari",
+    "timestamp": 83880,
+    "duration": 5279,
+    "text": "now people have feared AI since the very beginning of the computer age in the"
+  },
+  {
+    "id": "line-11",
+    "speakerName": "Harari",
+    "timestamp": 89159,
+    "duration": 5521,
+    "text": "middle of the 20th century and this fear has inspired many science fiction"
+  },
+  {
+    "id": "line-12",
+    "speakerName": "Harari",
+    "timestamp": 94680,
+    "duration": 7200,
+    "text": "Classics like the Terminator of The Matrix now while such science fiction scenarios"
+  },
+  {
+    "id": "line-13",
+    "speakerName": "Harari",
+    "timestamp": 101880,
+    "duration": 6599,
+    "text": "have become cultural landmarks they haven't usually been taken seriously in"
+  },
+  {
+    "id": "line-14",
+    "speakerName": "Harari",
+    "timestamp": 108479,
+    "duration": 5820,
+    "text": "academic and scientific and political debates and perhaps for a good reason"
+  },
+  {
+    "id": "line-15",
+    "speakerName": "Harari",
+    "timestamp": 114299,
+    "duration": 7441,
+    "text": "because science fiction scenarios usually assume that before AI can pose a"
+  },
+  {
+    "id": "line-16",
+    "speakerName": "Harari",
+    "timestamp": 121740,
+    "duration": 5820,
+    "text": "significant threat to humanity it will have to reach or to pass"
+  },
+  {
+    "id": "line-17",
+    "speakerName": "Harari",
+    "timestamp": 127560,
+    "duration": 7080,
+    "text": "to important milestones first AI will have to become sentient"
+  },
+  {
+    "id": "line-18",
+    "speakerName": "Harari",
+    "timestamp": 134640,
+    "duration": 6599,
+    "text": "and develop Consciousness feelings emotions otherwise why would it even"
+  },
+  {
+    "id": "line-19",
+    "speakerName": "Harari",
+    "timestamp": 141239,
+    "duration": 7921,
+    "text": "want to take over the world secondly AI will have to become Adept at"
+  },
+  {
+    "id": "line-20",
+    "speakerName": "Harari",
+    "timestamp": 149160,
+    "duration": 6000,
+    "text": "navigating the physical world robots will have to be able to move around and"
+  },
+  {
+    "id": "line-21",
+    "speakerName": "Harari",
+    "timestamp": 155160,
+    "duration": 5760,
+    "text": "operate in houses and cities and mountains and forests at least as"
+  },
+  {
+    "id": "line-22",
+    "speakerName": "Harari",
+    "timestamp": 160920,
+    "duration": 6000,
+    "text": "dexterously and efficiently as humans if they cannot move around the physical"
+  },
+  {
+    "id": "line-23",
+    "speakerName": "Harari",
+    "timestamp": 166920,
+    "duration": 10140,
+    "text": "world how can they possibly take it over and as of April 2023 AI still seems far"
+  },
+  {
+    "id": "line-24",
+    "speakerName": "Harari",
+    "timestamp": 177060,
+    "duration": 7319,
+    "text": "from reaching either of these Milestones despite all the hype around chat GPT and"
+  },
+  {
+    "id": "line-25",
+    "speakerName": "Harari",
+    "timestamp": 184379,
+    "duration": 6601,
+    "text": "the other new AI tools there is no evidence that these tools have even a"
+  },
+  {
+    "id": "line-26",
+    "speakerName": "Harari",
+    "timestamp": 190980,
+    "duration": 7280,
+    "text": "shred of consciousness feelings of emotions as for navigating the physical world"
+  },
+  {
+    "id": "line-27",
+    "speakerName": "Harari",
+    "timestamp": 198260,
+    "duration": 7660,
+    "text": "despite the hype around self-driving Vehicles the date at which these"
+  },
+  {
+    "id": "line-28",
+    "speakerName": "Harari",
+    "timestamp": 205920,
+    "duration": 5819,
+    "text": "vehicles will dominate our roads keeps being postponed"
+  },
+  {
+    "id": "line-29",
+    "speakerName": "Harari",
+    "timestamp": 211739,
+    "duration": 5161,
+    "text": "however the bad news is that to threaten the"
+  },
+  {
+    "id": "line-30",
+    "speakerName": "Harari",
+    "timestamp": 216900,
+    "duration": 7320,
+    "text": "survival of human civilization AI doesn't really need Consciousness and it"
+  },
+  {
+    "id": "line-31",
+    "speakerName": "Harari",
+    "timestamp": 224220,
+    "duration": 5280,
+    "text": "doesn't need the ability to move around the physical world"
+  },
+  {
+    "id": "line-32",
+    "speakerName": "Harari",
+    "timestamp": 229500,
+    "duration": 6540,
+    "text": "over the last few years new AI tools have been Unleashed into the public"
+  },
+  {
+    "id": "line-33",
+    "speakerName": "Harari",
+    "timestamp": 236040,
+    "duration": 6080,
+    "text": "sphere which may threaten the survival of human civilization from a very"
+  },
+  {
+    "id": "line-34",
+    "speakerName": "Harari",
+    "timestamp": 242120,
+    "duration": 6520,
+    "text": "unexpected Direction and it's difficult for us to even grasp"
+  },
+  {
+    "id": "line-35",
+    "speakerName": "Harari",
+    "timestamp": 248640,
+    "duration": 7319,
+    "text": "the capabilities of these new AI tools and the speed at which they continue to"
+  },
+  {
+    "id": "line-36",
+    "speakerName": "Harari",
+    "timestamp": 255959,
+    "duration": 7561,
+    "text": "develop indeed because AI is able to learn by itself to improve itself"
+  },
+  {
+    "id": "line-37",
+    "speakerName": "Harari",
+    "timestamp": 263520,
+    "duration": 7260,
+    "text": "even the developers of these tools don't know the full capabilities of what they"
+  },
+  {
+    "id": "line-38",
+    "speakerName": "Harari",
+    "timestamp": 270780,
+    "duration": 6120,
+    "text": "have created and they are themselves often surprised by emergent abilities"
+  },
+  {
+    "id": "line-39",
+    "speakerName": "Harari",
+    "timestamp": 276900,
+    "duration": 7320,
+    "text": "and emergent qualities of these tools I guess everybody here is already aware"
+  },
+  {
+    "id": "line-40",
+    "speakerName": "Harari",
+    "timestamp": 284220,
+    "duration": 6180,
+    "text": "of some of the most fundamental abilities of the new AI tools"
+  },
+  {
+    "id": "line-41",
+    "speakerName": "Harari",
+    "timestamp": 290400,
+    "duration": 7859,
+    "text": "abilities like writing text drawing images composing music and writing code"
+  },
+  {
+    "id": "line-42",
+    "speakerName": "Harari",
+    "timestamp": 298259,
+    "duration": 5880,
+    "text": "but there are many additional capabilities that are emerging like deep"
+  },
+  {
+    "id": "line-43",
+    "speakerName": "Harari",
+    "timestamp": 304139,
+    "duration": 6000,
+    "text": "faking people's voices and images like drafting bills"
+  },
+  {
+    "id": "line-44",
+    "speakerName": "Harari",
+    "timestamp": 310139,
+    "duration": 6361,
+    "text": "finding weaknesses both in computer code and also in legal contracts"
+  },
+  {
+    "id": "line-45",
+    "speakerName": "Harari",
+    "timestamp": 316500,
+    "duration": 7860,
+    "text": "and in legal agreements but perhaps most importantly the new AI tools are gaining"
+  },
+  {
+    "id": "line-46",
+    "speakerName": "Harari",
+    "timestamp": 324360,
+    "duration": 7860,
+    "text": "the ability to develop deep and intimate relationships with human beings"
+  },
+  {
+    "id": "line-47",
+    "speakerName": "Harari",
+    "timestamp": 332220,
+    "duration": 5759,
+    "text": "each of these abilities deserves an entire discussion and it is difficult"
+  },
+  {
+    "id": "line-48",
+    "speakerName": "Harari",
+    "timestamp": 337979,
+    "duration": 6901,
+    "text": "for us to understand their full implications so let's make it simple"
+  },
+  {
+    "id": "line-49",
+    "speakerName": "Harari",
+    "timestamp": 344880,
+    "duration": 7379,
+    "text": "when we take all of these abilities together as a package they boil down to"
+  },
+  {
+    "id": "line-50",
+    "speakerName": "Harari",
+    "timestamp": 352259,
+    "duration": 5041,
+    "text": "one very very big thing the ability to"
+  },
+  {
+    "id": "line-51",
+    "speakerName": "Harari",
+    "timestamp": 357300,
+    "duration": 5700,
+    "text": "manipulate and to generate language whether with words"
+  },
+  {
+    "id": "line-52",
+    "speakerName": "Harari",
+    "timestamp": 363000,
+    "duration": 6180,
+    "text": "or images or sounds the most important aspect of the current"
+  },
+  {
+    "id": "line-53",
+    "speakerName": "Harari",
+    "timestamp": 369180,
+    "duration": 7700,
+    "text": "phase of the ongoing AI Revolution is that AI is gaining Mastery of language"
+  },
+  {
+    "id": "line-54",
+    "speakerName": "Harari",
+    "timestamp": 376880,
+    "duration": 8140,
+    "text": "at a level that surpasses the average human ability and by gaining Mastery of"
+  },
+  {
+    "id": "line-55",
+    "speakerName": "Harari",
+    "timestamp": 385020,
+    "duration": 5060,
+    "text": "language AI is seizing the master key"
+  },
+  {
+    "id": "line-56",
+    "speakerName": "Harari",
+    "timestamp": 390080,
+    "duration": 7239,
+    "text": "unlocking the doors of all our institutions from Banks to Temples"
+  },
+  {
+    "id": "line-57",
+    "speakerName": "Harari",
+    "timestamp": 397319,
+    "duration": 7801,
+    "text": "because language is the tool that we use to give instructions to our bank and"
+  },
+  {
+    "id": "line-58",
+    "speakerName": "Harari",
+    "timestamp": 405120,
+    "duration": 7740,
+    "text": "also to inspire Heavenly Visions in our minds another way to think of it is that AI"
+  },
+  {
+    "id": "line-59",
+    "speakerName": "Harari",
+    "timestamp": 412860,
+    "duration": 6480,
+    "text": "has just hacked the operating system of human civilization"
+  },
+  {
+    "id": "line-60",
+    "speakerName": "Harari",
+    "timestamp": 419340,
+    "duration": 5820,
+    "text": "the operating system of every human culture in history has always been"
+  },
+  {
+    "id": "line-61",
+    "speakerName": "Harari",
+    "timestamp": 425160,
+    "duration": 7920,
+    "text": "language in the beginning was the word we use language to create mythology and"
+  },
+  {
+    "id": "line-62",
+    "speakerName": "Harari",
+    "timestamp": 433080,
+    "duration": 7619,
+    "text": "laws to create gods and money to create Art and Science to create friendships"
+  },
+  {
+    "id": "line-63",
+    "speakerName": "Harari",
+    "timestamp": 440699,
+    "duration": 6301,
+    "text": "and Nations for example human rights are not a"
+  },
+  {
+    "id": "line-64",
+    "speakerName": "Harari",
+    "timestamp": 447000,
+    "duration": 7080,
+    "text": "biological reality they are not inscribed in our DNA human rights is something that we"
+  },
+  {
+    "id": "line-65",
+    "speakerName": "Harari",
+    "timestamp": 454080,
+    "duration": 5839,
+    "text": "created with Language by telling stories and writing laws"
+  },
+  {
+    "id": "line-66",
+    "speakerName": "Harari",
+    "timestamp": 459919,
+    "duration": 7120,
+    "text": "gods are also not a biological or physical reality God's too is something"
+  },
+  {
+    "id": "line-67",
+    "speakerName": "Harari",
+    "timestamp": 467039,
+    "duration": 6060,
+    "text": "that we humans have created with Language by telling Legends and writing"
+  },
+  {
+    "id": "line-68",
+    "speakerName": "Harari",
+    "timestamp": 473099,
+    "duration": 5341,
+    "text": "scriptures money is not a biological or physical"
+  },
+  {
+    "id": "line-69",
+    "speakerName": "Harari",
+    "timestamp": 478440,
+    "duration": 7740,
+    "text": "reality banknotes are just worthless pieces of paper and at present more than 90"
+  },
+  {
+    "id": "line-70",
+    "speakerName": "Harari",
+    "timestamp": 486180,
+    "duration": 5700,
+    "text": "percent of the money in the world is not even banknotes it's just electronic"
+  },
+  {
+    "id": "line-71",
+    "speakerName": "Harari",
+    "timestamp": 491880,
+    "duration": 8340,
+    "text": "information in computers passing from here to there what gives money of any kind value is"
+  },
+  {
+    "id": "line-72",
+    "speakerName": "Harari",
+    "timestamp": 500220,
+    "duration": 6240,
+    "text": "only the stories that people like bankers and finance ministers and"
+  },
+  {
+    "id": "line-73",
+    "speakerName": "Harari",
+    "timestamp": 506460,
+    "duration": 7379,
+    "text": "cryptocurrency gurus tell us about money Sam bankman freed Elizabeth Holmes and"
+  },
+  {
+    "id": "line-74",
+    "speakerName": "Harari",
+    "timestamp": 513839,
+    "duration": 7620,
+    "text": "Bernie Madoff didn't create much of real value but unfortunately they were all"
+  },
+  {
+    "id": "line-75",
+    "speakerName": "Harari",
+    "timestamp": 521459,
+    "duration": 4681,
+    "text": "extremely capable storytellers"
+  },
+  {
+    "id": "line-76",
+    "speakerName": "Harari",
+    "timestamp": 527220,
+    "duration": 7799,
+    "text": "now what would it mean for human beings to live in a world where perhaps most of"
+  },
+  {
+    "id": "line-77",
+    "speakerName": "Harari",
+    "timestamp": 535019,
+    "duration": 7320,
+    "text": "the stories Melodies images laws policies and tools are shaped by a"
+  },
+  {
+    "id": "line-78",
+    "speakerName": "Harari",
+    "timestamp": 542339,
+    "duration": 8281,
+    "text": "non-human alien intelligence which knows how to exploit with superhuman"
+  },
+  {
+    "id": "line-79",
+    "speakerName": "Harari",
+    "timestamp": 550620,
+    "duration": 7200,
+    "text": "efficiency the weaknesses biases and addictions of the human mind and also"
+  },
+  {
+    "id": "line-80",
+    "speakerName": "Harari",
+    "timestamp": 557820,
+    "duration": 7260,
+    "text": "knows how to form deep and even intimate relationships with human beings that's"
+  },
+  {
+    "id": "line-81",
+    "speakerName": "Harari",
+    "timestamp": 565080,
+    "duration": 5819,
+    "text": "the big question already today in games like chess no"
+  },
+  {
+    "id": "line-82",
+    "speakerName": "Harari",
+    "timestamp": 570899,
+    "duration": 7201,
+    "text": "human can hope to beat a computer what if the same thing happens in art in"
+  },
+  {
+    "id": "line-83",
+    "speakerName": "Harari",
+    "timestamp": 578100,
+    "duration": 7679,
+    "text": "politics economics and even in religion when people think about chant GPT and"
+  },
+  {
+    "id": "line-84",
+    "speakerName": "Harari",
+    "timestamp": 585779,
+    "duration": 6240,
+    "text": "the other new AI tools they are often drawn to examples like kids using Chan"
+  },
+  {
+    "id": "line-85",
+    "speakerName": "Harari",
+    "timestamp": 592019,
+    "duration": 7141,
+    "text": "GPT to write their school essays what will happen to the school system when kids write essays with shajipiti"
+  },
+  {
+    "id": "line-86",
+    "speakerName": "Harari",
+    "timestamp": 599160,
+    "duration": 7140,
+    "text": "horrible but this kind of question misses the big picture forget about the school essays"
+  },
+  {
+    "id": "line-87",
+    "speakerName": "Harari",
+    "timestamp": 606300,
+    "duration": 8340,
+    "text": "instead think for example about the next U.S presidential race in 2024 and try to"
+  },
+  {
+    "id": "line-88",
+    "speakerName": "Harari",
+    "timestamp": 614640,
+    "duration": 6840,
+    "text": "imagine the impact of the new AI tools that can Mass produce political"
+  },
+  {
+    "id": "line-89",
+    "speakerName": "Harari",
+    "timestamp": 621480,
+    "duration": 7200,
+    "text": "manifestos fake news stories and even holy scriptures for new cults"
+  },
+  {
+    "id": "line-90",
+    "speakerName": "Harari",
+    "timestamp": 628680,
+    "duration": 9200,
+    "text": "in recent years the politically influential Q Anon cult has formed around anonymous online texts"
+  },
+  {
+    "id": "line-91",
+    "speakerName": "Harari",
+    "timestamp": 637880,
+    "duration": 5980,
+    "text": "known as the Q drops now followers of this cult which are millions now in the"
+  },
+  {
+    "id": "line-92",
+    "speakerName": "Harari",
+    "timestamp": 643860,
+    "duration": 6000,
+    "text": "US in the rest of the world collected reviewed and interpreted these Q drops"
+  },
+  {
+    "id": "line-93",
+    "speakerName": "Harari",
+    "timestamp": 649860,
+    "duration": 6419,
+    "text": "as some kind of new scripture so the sacred text now to the best of our knowledge all"
+  },
+  {
+    "id": "line-94",
+    "speakerName": "Harari",
+    "timestamp": 656279,
+    "duration": 6841,
+    "text": "previous Q drops were composed by human beings and Bots only helped to"
+  },
+  {
+    "id": "line-95",
+    "speakerName": "Harari",
+    "timestamp": 663120,
+    "duration": 8580,
+    "text": "disseminate these texts online but in future we might see the first Cults and"
+  },
+  {
+    "id": "line-96",
+    "speakerName": "Harari",
+    "timestamp": 671700,
+    "duration": 6420,
+    "text": "religions in history whose reviewed texts were written by a non-human"
+  },
+  {
+    "id": "line-97",
+    "speakerName": "Harari",
+    "timestamp": 678120,
+    "duration": 7140,
+    "text": "intelligence and of course religions throughout history claimed that their holy books were"
+  },
+  {
+    "id": "line-98",
+    "speakerName": "Harari",
+    "timestamp": 685260,
+    "duration": 5040,
+    "text": "written by a non-human intelligence this was never true before this could become"
+  },
+  {
+    "id": "line-99",
+    "speakerName": "Harari",
+    "timestamp": 690300,
+    "duration": 6539,
+    "text": "true very very quickly with far-reaching consequences"
+  },
+  {
+    "id": "line-100",
+    "speakerName": "Harari",
+    "timestamp": 696839,
+    "duration": 5341,
+    "text": "now on a more prosaic level we might soon find ourselves conducting"
+  },
+  {
+    "id": "line-101",
+    "speakerName": "Harari",
+    "timestamp": 702180,
+    "duration": 6300,
+    "text": "lengthy online discussions about abortion or about climate change or"
+  },
+  {
+    "id": "line-102",
+    "speakerName": "Harari",
+    "timestamp": 708480,
+    "duration": 5700,
+    "text": "about the Russian invasion of Ukraine with entities that we think are fellow"
+  },
+  {
+    "id": "line-103",
+    "speakerName": "Harari",
+    "timestamp": 714180,
+    "duration": 7040,
+    "text": "human beings but are actually AI Bots now the catch is that it's utterly"
+  },
+  {
+    "id": "line-104",
+    "speakerName": "Harari",
+    "timestamp": 721220,
+    "duration": 7480,
+    "text": "useless it's pointless for us to waste our time trying to convince an AI bot to"
+  },
+  {
+    "id": "line-105",
+    "speakerName": "Harari",
+    "timestamp": 728700,
+    "duration": 5400,
+    "text": "change its political views but the longer we spend talking with the bot the"
+  },
+  {
+    "id": "line-106",
+    "speakerName": "Harari",
+    "timestamp": 734100,
+    "duration": 6060,
+    "text": "better it gets to know us and understand how to hone its messages in order to"
+  },
+  {
+    "id": "line-107",
+    "speakerName": "Harari",
+    "timestamp": 740160,
+    "duration": 5340,
+    "text": "shift our political views or our economic views or anything else"
+  },
+  {
+    "id": "line-108",
+    "speakerName": "Harari",
+    "timestamp": 745500,
+    "duration": 6300,
+    "text": "through its Mastery of language AI as I also as I said could also form intimate"
+  },
+  {
+    "id": "line-109",
+    "speakerName": "Harari",
+    "timestamp": 751800,
+    "duration": 5940,
+    "text": "relationships with people and use the power of intimacy"
+  },
+  {
+    "id": "line-110",
+    "speakerName": "Harari",
+    "timestamp": 757740,
+    "duration": 7380,
+    "text": "to influence our opinions and well View now there is no indication that AI has"
+  },
+  {
+    "id": "line-111",
+    "speakerName": "Harari",
+    "timestamp": 765120,
+    "duration": 6480,
+    "text": "as I said any Consciousness any feelings of its own but in order to create fake"
+  },
+  {
+    "id": "line-112",
+    "speakerName": "Harari",
+    "timestamp": 771600,
+    "duration": 5760,
+    "text": "intimacy with human beings AI doesn't need feelings of its own it only needs"
+  },
+  {
+    "id": "line-113",
+    "speakerName": "Harari",
+    "timestamp": 777360,
+    "duration": 7260,
+    "text": "to be able to inspire feelings in US to get us to be attached to it"
+  },
+  {
+    "id": "line-114",
+    "speakerName": "Harari",
+    "timestamp": 784620,
+    "duration": 5700,
+    "text": "now in June 2022 it was a famous incident when the Google engineer Blake"
+  },
+  {
+    "id": "line-115",
+    "speakerName": "Harari",
+    "timestamp": 790320,
+    "duration": 6900,
+    "text": "lemon publicly claimed that the AI chat about Lambda on which he was working has"
+  },
+  {
+    "id": "line-116",
+    "speakerName": "Harari",
+    "timestamp": 797220,
+    "duration": 5100,
+    "text": "become sentient this very controversial claim cost him"
+  },
+  {
+    "id": "line-117",
+    "speakerName": "Harari",
+    "timestamp": 802320,
+    "duration": 7740,
+    "text": "his job was fired now the most interesting thing about this episode wasn't lemwan's claim which"
+  },
+  {
+    "id": "line-118",
+    "speakerName": "Harari",
+    "timestamp": 810060,
+    "duration": 5940,
+    "text": "was most probably false the really interesting thing was his"
+  },
+  {
+    "id": "line-119",
+    "speakerName": "Harari",
+    "timestamp": 816000,
+    "duration": 7079,
+    "text": "willingness to risk and ultimately lose his very lucrative job for the sake of"
+  },
+  {
+    "id": "line-120",
+    "speakerName": "Harari",
+    "timestamp": 823079,
+    "duration": 8041,
+    "text": "the AI chatbot that he thought he was protecting if AI can influence people to risk and"
+  },
+  {
+    "id": "line-121",
+    "speakerName": "Harari",
+    "timestamp": 831120,
+    "duration": 6540,
+    "text": "lose their jobs what else can it induce us to do"
+  },
+  {
+    "id": "line-122",
+    "speakerName": "Harari",
+    "timestamp": 837660,
+    "duration": 7140,
+    "text": "in every political battle for heart and Minds intimacy is the most effective"
+  },
+  {
+    "id": "line-123",
+    "speakerName": "Harari",
+    "timestamp": 844800,
+    "duration": 7560,
+    "text": "weapon of all and AI has just gained the ability to must produce intimacy with"
+  },
+  {
+    "id": "line-124",
+    "speakerName": "Harari",
+    "timestamp": 852360,
+    "duration": 6000,
+    "text": "Millions hundreds of millions of people now as you probably all know over the"
+  },
+  {
+    "id": "line-125",
+    "speakerName": "Harari",
+    "timestamp": 858360,
+    "duration": 5460,
+    "text": "past decade social media has become a Battleground a battlefield"
+  },
+  {
+    "id": "line-126",
+    "speakerName": "Harari",
+    "timestamp": 863820,
+    "duration": 7380,
+    "text": "for controlling human attention now with the new generation of AI the"
+  },
+  {
+    "id": "line-127",
+    "speakerName": "Harari",
+    "timestamp": 871200,
+    "duration": 7560,
+    "text": "Battlefront is shifting from attention to intimacy and this is very bad news"
+  },
+  {
+    "id": "line-128",
+    "speakerName": "Harari",
+    "timestamp": 878760,
+    "duration": 6720,
+    "text": "what will happen to human society and to human psychology as AI fights AI in a"
+  },
+  {
+    "id": "line-129",
+    "speakerName": "Harari",
+    "timestamp": 885480,
+    "duration": 6539,
+    "text": "battle to create intimate relationships with us relationships that can then be used to"
+  },
+  {
+    "id": "line-130",
+    "speakerName": "Harari",
+    "timestamp": 892019,
+    "duration": 7201,
+    "text": "convince us to buy particular products or to vote for particular politicians"
+  },
+  {
+    "id": "line-131",
+    "speakerName": "Harari",
+    "timestamp": 899220,
+    "duration": 6600,
+    "text": "even without creating fake intimacy the new AI tools would have an immense"
+  },
+  {
+    "id": "line-132",
+    "speakerName": "Harari",
+    "timestamp": 905820,
+    "duration": 5100,
+    "text": "influence on human opinions and on our world view"
+  },
+  {
+    "id": "line-133",
+    "speakerName": "Harari",
+    "timestamp": 910920,
+    "duration": 8159,
+    "text": "people for instance may come to use are already coming to use a single AI advisor"
+  },
+  {
+    "id": "line-134",
+    "speakerName": "Harari",
+    "timestamp": 919079,
+    "duration": 5461,
+    "text": "as the One-Stop Oracle and as the source for all the"
+  },
+  {
+    "id": "line-135",
+    "speakerName": "Harari",
+    "timestamp": 924540,
+    "duration": 6419,
+    "text": "information they need no wonder that Google is terrified if you've been watching the newsletter"
+  },
+  {
+    "id": "line-136",
+    "speakerName": "Harari",
+    "timestamp": 930959,
+    "duration": 5641,
+    "text": "Google is terrified and for a good Rhythm reason why bother searching"
+  },
+  {
+    "id": "line-137",
+    "speakerName": "Harari",
+    "timestamp": 936600,
+    "duration": 5340,
+    "text": "yourself when you can just ask the Oracle to tell you anything you want you"
+  },
+  {
+    "id": "line-138",
+    "speakerName": "Harari",
+    "timestamp": 941940,
+    "duration": 8519,
+    "text": "don't need to search the news industry and the advertisement industry should also be terrified why"
+  },
+  {
+    "id": "line-139",
+    "speakerName": "Harari",
+    "timestamp": 950459,
+    "duration": 6661,
+    "text": "read a newspaper when I can just ask the Oracle to tell me what's new"
+  },
+  {
+    "id": "line-140",
+    "speakerName": "Harari",
+    "timestamp": 957120,
+    "duration": 9480,
+    "text": "and what's the point what's the purpose of advertisements when I can just ask the Oracle to tell me what to buy"
+  },
+  {
+    "id": "line-141",
+    "speakerName": "Harari",
+    "timestamp": 966600,
+    "duration": 6780,
+    "text": "so this is there is a chance that within a very short time the entire advertisement industry will collapse"
+  },
+  {
+    "id": "line-142",
+    "speakerName": "Harari",
+    "timestamp": 973380,
+    "duration": 5819,
+    "text": "while a I or the people and companies that control the new AI oracles will"
+  },
+  {
+    "id": "line-143",
+    "speakerName": "Harari",
+    "timestamp": 979199,
+    "duration": 6061,
+    "text": "become extremely extremely powerful what we are potentially talking about is"
+  },
+  {
+    "id": "line-144",
+    "speakerName": "Harari",
+    "timestamp": 985260,
+    "duration": 5939,
+    "text": "nothing less than the end of human history now not the end of History just"
+  },
+  {
+    "id": "line-145",
+    "speakerName": "Harari",
+    "timestamp": 991199,
+    "duration": 5181,
+    "text": "the end of the human dominated part of what we call history"
+  },
+  {
+    "id": "line-146",
+    "speakerName": "Harari",
+    "timestamp": 996380,
+    "duration": 5259,
+    "text": "is the interaction between biology and culture"
+  },
+  {
+    "id": "line-147",
+    "speakerName": "Harari",
+    "timestamp": 1001639,
+    "duration": 5521,
+    "text": "it's the interaction between our biological needs and desires for things"
+  },
+  {
+    "id": "line-148",
+    "speakerName": "Harari",
+    "timestamp": 1007160,
+    "duration": 5039,
+    "text": "like food and sex and our cultural Creations like"
+  },
+  {
+    "id": "line-149",
+    "speakerName": "Harari",
+    "timestamp": 1012199,
+    "duration": 5700,
+    "text": "religions and laws history is the process through which religions and laws"
+  },
+  {
+    "id": "line-150",
+    "speakerName": "Harari",
+    "timestamp": 1017899,
+    "duration": 6060,
+    "text": "interact with food and sex now what will happen to the cause of"
+  },
+  {
+    "id": "line-151",
+    "speakerName": "Harari",
+    "timestamp": 1023959,
+    "duration": 5821,
+    "text": "this interaction of history when AI takes over culture"
+  },
+  {
+    "id": "line-152",
+    "speakerName": "Harari",
+    "timestamp": 1029780,
+    "duration": 6000,
+    "text": "within a few years AI could eat the whole of human culture"
+  },
+  {
+    "id": "line-153",
+    "speakerName": "Harari",
+    "timestamp": 1035780,
+    "duration": 8960,
+    "text": "everything was produced for thousands and thousands of years to eat all of it digest it and start gushing out a flood"
+  },
+  {
+    "id": "line-154",
+    "speakerName": "Harari",
+    "timestamp": 1044740,
+    "duration": 5920,
+    "text": "of new cultural Creations new cultural artifacts"
+  },
+  {
+    "id": "line-155",
+    "speakerName": "Harari",
+    "timestamp": 1050660,
+    "duration": 7019,
+    "text": "and remember that we humans we never really have direct access to reality we"
+  },
+  {
+    "id": "line-156",
+    "speakerName": "Harari",
+    "timestamp": 1057679,
+    "duration": 6541,
+    "text": "are always cocooned by culture and we always experience reality through a"
+  },
+  {
+    "id": "line-157",
+    "speakerName": "Harari",
+    "timestamp": 1064220,
+    "duration": 5339,
+    "text": "cultural prison our political views are shaped by the"
+  },
+  {
+    "id": "line-158",
+    "speakerName": "Harari",
+    "timestamp": 1069559,
+    "duration": 6061,
+    "text": "stories of uh journalists and by the anecdotes of friends of sexual"
+  },
+  {
+    "id": "line-159",
+    "speakerName": "Harari",
+    "timestamp": 1075620,
+    "duration": 5939,
+    "text": "preferences are tweaked by movies and fairy tales even the way that we walk"
+  },
+  {
+    "id": "line-160",
+    "speakerName": "Harari",
+    "timestamp": 1081559,
+    "duration": 5821,
+    "text": "and breathe is something nudged by cultural traditions"
+  },
+  {
+    "id": "line-161",
+    "speakerName": "Harari",
+    "timestamp": 1087380,
+    "duration": 9480,
+    "text": "now previously this cultural cocoon was always woven by other human beings"
+  },
+  {
+    "id": "line-162",
+    "speakerName": "Harari",
+    "timestamp": 1096860,
+    "duration": 6059,
+    "text": "tools previous tools like printing presses or radios or televisions they"
+  },
+  {
+    "id": "line-163",
+    "speakerName": "Harari",
+    "timestamp": 1102919,
+    "duration": 6241,
+    "text": "helped to spread the cultural ideas and Creations of humans but they could never"
+  },
+  {
+    "id": "line-164",
+    "speakerName": "Harari",
+    "timestamp": 1109160,
+    "duration": 6899,
+    "text": "create Something New by themselves a printing press cannot create a new"
+  },
+  {
+    "id": "line-165",
+    "speakerName": "Harari",
+    "timestamp": 1116059,
+    "duration": 6000,
+    "text": "book it's always done by a human AI is fundamentally different from"
+  },
+  {
+    "id": "line-166",
+    "speakerName": "Harari",
+    "timestamp": 1122059,
+    "duration": 5401,
+    "text": "printing presses from radios from every previous invention in history because it"
+  },
+  {
+    "id": "line-167",
+    "speakerName": "Harari",
+    "timestamp": 1127460,
+    "duration": 5280,
+    "text": "can create completely new ideas it can create a new"
+  },
+  {
+    "id": "line-168",
+    "speakerName": "Harari",
+    "timestamp": 1132740,
+    "duration": 5400,
+    "text": "culture and the big question is what will it be"
+  },
+  {
+    "id": "line-169",
+    "speakerName": "Harari",
+    "timestamp": 1138140,
+    "duration": 7080,
+    "text": "like to experience reality through a prism produced by a non-human"
+  },
+  {
+    "id": "line-170",
+    "speakerName": "Harari",
+    "timestamp": 1145220,
+    "duration": 5699,
+    "text": "intelligence by an alien intelligence now at first"
+  },
+  {
+    "id": "line-171",
+    "speakerName": "Harari",
+    "timestamp": 1150919,
+    "duration": 6301,
+    "text": "in the first few years AI will probably largely imitate the prototypes the human"
+  },
+  {
+    "id": "line-172",
+    "speakerName": "Harari",
+    "timestamp": 1157220,
+    "duration": 7680,
+    "text": "prototypes that fed it in its infancy but with each passing year AI culture"
+  },
+  {
+    "id": "line-173",
+    "speakerName": "Harari",
+    "timestamp": 1164900,
+    "duration": 5460,
+    "text": "will boldly go where no human has gone before"
+  },
+  {
+    "id": "line-174",
+    "speakerName": "Harari",
+    "timestamp": 1170360,
+    "duration": 5880,
+    "text": "so for thousands of years we humans basically lived inside the dreams and"
+  },
+  {
+    "id": "line-175",
+    "speakerName": "Harari",
+    "timestamp": 1176240,
+    "duration": 6059,
+    "text": "fantasies of other humans we have worshiped Gods we pursued ideals"
+  },
+  {
+    "id": "line-176",
+    "speakerName": "Harari",
+    "timestamp": 1182299,
+    "duration": 8161,
+    "text": "of beauty we dedicated Our Lives to causes that originated in the imagination of some human poet or"
+  },
+  {
+    "id": "line-177",
+    "speakerName": "Harari",
+    "timestamp": 1190460,
+    "duration": 7260,
+    "text": "Prophet or politician soon we might find ourselves living inside the dreams and fantasies of an"
+  },
+  {
+    "id": "line-178",
+    "speakerName": "Harari",
+    "timestamp": 1197720,
+    "duration": 6240,
+    "text": "alien in intelligence and the danger that disposes of the potential danger it also has positive"
+  },
+  {
+    "id": "line-179",
+    "speakerName": "Harari",
+    "timestamp": 1203960,
+    "duration": 5099,
+    "text": "potential but the dangers it disposes are fundamental very very different from"
+  },
+  {
+    "id": "line-180",
+    "speakerName": "Harari",
+    "timestamp": 1209059,
+    "duration": 5221,
+    "text": "everything or most of the things imagined in science fiction movies and"
+  },
+  {
+    "id": "line-181",
+    "speakerName": "Harari",
+    "timestamp": 1214280,
+    "duration": 6380,
+    "text": "books previously people have mostly feared the physical threat"
+  },
+  {
+    "id": "line-182",
+    "speakerName": "Harari",
+    "timestamp": 1220660,
+    "duration": 6879,
+    "text": "that intelligent machines pose so the Terminator depicted robots running in"
+  },
+  {
+    "id": "line-183",
+    "speakerName": "Harari",
+    "timestamp": 1227539,
+    "duration": 5221,
+    "text": "the streets and shooting people The Matrix assumed that to gain total"
+  },
+  {
+    "id": "line-184",
+    "speakerName": "Harari",
+    "timestamp": 1232760,
+    "duration": 6720,
+    "text": "control of human society AI would first need to get physical control"
+  },
+  {
+    "id": "line-185",
+    "speakerName": "Harari",
+    "timestamp": 1239480,
+    "duration": 6540,
+    "text": "of our brains and directly connect our brains to the computer network"
+  },
+  {
+    "id": "line-186",
+    "speakerName": "Harari",
+    "timestamp": 1246020,
+    "duration": 8700,
+    "text": "but this is wrong simply by gaining Mastery of human language AI has all it needs in order to"
+  },
+  {
+    "id": "line-187",
+    "speakerName": "Harari",
+    "timestamp": 1254720,
+    "duration": 6959,
+    "text": "coconuts in a matrix like World of illusions"
+  },
+  {
+    "id": "line-188",
+    "speakerName": "Harari",
+    "timestamp": 1261679,
+    "duration": 5401,
+    "text": "contrary to what some conspiracy theories assume you don't really need to"
+  },
+  {
+    "id": "line-189",
+    "speakerName": "Harari",
+    "timestamp": 1267080,
+    "duration": 6780,
+    "text": "implant chips in people's brains in order to control them or to manipulate them for thousands of"
+  },
+  {
+    "id": "line-190",
+    "speakerName": "Harari",
+    "timestamp": 1273860,
+    "duration": 6900,
+    "text": "years profits and Poets and politicians have used language and storytelling in"
+  },
+  {
+    "id": "line-191",
+    "speakerName": "Harari",
+    "timestamp": 1280760,
+    "duration": 5820,
+    "text": "order to manipulate and to control people and to reshape Society now ai is"
+  },
+  {
+    "id": "line-192",
+    "speakerName": "Harari",
+    "timestamp": 1286580,
+    "duration": 5520,
+    "text": "likely to be able to do it and once it can doubt that it doesn't need to send"
+  },
+  {
+    "id": "line-193",
+    "speakerName": "Harari",
+    "timestamp": 1292100,
+    "duration": 7220,
+    "text": "Killer Robots to shoot us it can get humans to pull the trigger if it really needs to"
+  },
+  {
+    "id": "line-194",
+    "speakerName": "Harari",
+    "timestamp": 1299900,
+    "duration": 5880,
+    "text": "now fear of AI has haunted humankind for only the last few Generations let's say"
+  },
+  {
+    "id": "line-195",
+    "speakerName": "Harari",
+    "timestamp": 1305780,
+    "duration": 6360,
+    "text": "from the middle of the 20th century if you go back to Frankenstein maybe it's 200 years but for thousands of years"
+  },
+  {
+    "id": "line-196",
+    "speakerName": "Harari",
+    "timestamp": 1312140,
+    "duration": 6480,
+    "text": "humans have been haunted by a much much deeper fear"
+  },
+  {
+    "id": "line-197",
+    "speakerName": "Harari",
+    "timestamp": 1318620,
+    "duration": 6600,
+    "text": "humans have always appreciated the power of stories and images and language to"
+  },
+  {
+    "id": "line-198",
+    "speakerName": "Harari",
+    "timestamp": 1325220,
+    "duration": 7380,
+    "text": "manipulate our minds and to create illusions consequently since ancient times humans"
+  },
+  {
+    "id": "line-199",
+    "speakerName": "Harari",
+    "timestamp": 1332600,
+    "duration": 7800,
+    "text": "feared being trapped in a world of illusions in the 17th century when I decout feared"
+  },
+  {
+    "id": "line-200",
+    "speakerName": "Harari",
+    "timestamp": 1340400,
+    "duration": 5880,
+    "text": "that perhaps a malicious demon was trapping him inside this kind of world"
+  },
+  {
+    "id": "line-201",
+    "speakerName": "Harari",
+    "timestamp": 1346280,
+    "duration": 6180,
+    "text": "of Illusions creating everything that the cult saw and heard"
+  },
+  {
+    "id": "line-202",
+    "speakerName": "Harari",
+    "timestamp": 1352460,
+    "duration": 6900,
+    "text": "in ancient Greece Plato told the famous allegory of the cave in which a group of"
+  },
+  {
+    "id": "line-203",
+    "speakerName": "Harari",
+    "timestamp": 1359360,
+    "duration": 8280,
+    "text": "people is Chained inside a cave all their lives facing a blank wall a screen"
+  },
+  {
+    "id": "line-204",
+    "speakerName": "Harari",
+    "timestamp": 1367640,
+    "duration": 6720,
+    "text": "on that screen they see projected various Shadows and the prisoner's"
+  },
+  {
+    "id": "line-205",
+    "speakerName": "Harari",
+    "timestamp": 1374360,
+    "duration": 6000,
+    "text": "mistake these Illusions these Shadows for the reality"
+  },
+  {
+    "id": "line-206",
+    "speakerName": "Harari",
+    "timestamp": 1380360,
+    "duration": 7380,
+    "text": "in ancient India Buddhists and Hindu sages pointed out that all humans lived trapped inside"
+  },
+  {
+    "id": "line-207",
+    "speakerName": "Harari",
+    "timestamp": 1387740,
+    "duration": 5400,
+    "text": "what they called Maya Maya is the world of Illusions Buddha"
+  },
+  {
+    "id": "line-208",
+    "speakerName": "Harari",
+    "timestamp": 1393140,
+    "duration": 6539,
+    "text": "said that what we normally take to be reality is often just fictions in our"
+  },
+  {
+    "id": "line-209",
+    "speakerName": "Harari",
+    "timestamp": 1399679,
+    "duration": 7021,
+    "text": "own minds people may wage entire Wars killing others and being willing to be"
+  },
+  {
+    "id": "line-210",
+    "speakerName": "Harari",
+    "timestamp": 1406700,
+    "duration": 5940,
+    "text": "killed themselves because of their belief in these fictions"
+  },
+  {
+    "id": "line-211",
+    "speakerName": "Harari",
+    "timestamp": 1412640,
+    "duration": 5820,
+    "text": "so the AI Revolution is bringing us face to face"
+  },
+  {
+    "id": "line-212",
+    "speakerName": "Harari",
+    "timestamp": 1418460,
+    "duration": 7560,
+    "text": "with the cards demon with Plato's Cave with the Maya if we are not careful a"
+  },
+  {
+    "id": "line-213",
+    "speakerName": "Harari",
+    "timestamp": 1426020,
+    "duration": 7139,
+    "text": "curtain of illusions could descend over the whole of humankind and we will never be able to"
+  },
+  {
+    "id": "line-214",
+    "speakerName": "Harari",
+    "timestamp": 1433159,
+    "duration": 5640,
+    "text": "tear that curtain away or even realize that it is there because we'll think"
+  },
+  {
+    "id": "line-215",
+    "speakerName": "Harari",
+    "timestamp": 1438799,
+    "duration": 7321,
+    "text": "this is reality and social media if this sounds far-fetched so just look at social media"
+  },
+  {
+    "id": "line-216",
+    "speakerName": "Harari",
+    "timestamp": 1446120,
+    "duration": 5100,
+    "text": "over the last few years social media has given us a small taste of things to come"
+  },
+  {
+    "id": "line-217",
+    "speakerName": "Harari",
+    "timestamp": 1451220,
+    "duration": 6300,
+    "text": "in social media primitive AI tools AI tools but very primitive have been used"
+  },
+  {
+    "id": "line-218",
+    "speakerName": "Harari",
+    "timestamp": 1457520,
+    "duration": 7080,
+    "text": "not to create content but to curate content which is produced by human"
+  },
+  {
+    "id": "line-219",
+    "speakerName": "Harari",
+    "timestamp": 1464600,
+    "duration": 6480,
+    "text": "beings the humans produce stories and videos and whatever and the AI chooses"
+  },
+  {
+    "id": "line-220",
+    "speakerName": "Harari",
+    "timestamp": 1471080,
+    "duration": 5520,
+    "text": "which stories which videos would reach our ears and eyes"
+  },
+  {
+    "id": "line-221",
+    "speakerName": "Harari",
+    "timestamp": 1476600,
+    "duration": 7980,
+    "text": "selecting those that will get the most attention that will be the most viral"
+  },
+  {
+    "id": "line-222",
+    "speakerName": "Harari",
+    "timestamp": 1484580,
+    "duration": 5820,
+    "text": "and while very primitive these AI tools have nevertheless been sufficient"
+  },
+  {
+    "id": "line-223",
+    "speakerName": "Harari",
+    "timestamp": 1490400,
+    "duration": 6480,
+    "text": "to create this kind of curtain of illusions that increased societal polarization all"
+  },
+  {
+    "id": "line-224",
+    "speakerName": "Harari",
+    "timestamp": 1496880,
+    "duration": 5940,
+    "text": "over the world undermined our mental health and destabilized Democratic"
+  },
+  {
+    "id": "line-225",
+    "speakerName": "Harari",
+    "timestamp": 1502820,
+    "duration": 8219,
+    "text": "societies millions of people have confused these Illusions for the reality"
+  },
+  {
+    "id": "line-226",
+    "speakerName": "Harari",
+    "timestamp": 1511039,
+    "duration": 7140,
+    "text": "the USA has the most powerful information technology in the whole of history and"
+  },
+  {
+    "id": "line-227",
+    "speakerName": "Harari",
+    "timestamp": 1518179,
+    "duration": 7441,
+    "text": "yet American citizens can no longer agree who won the last elections or"
+  },
+  {
+    "id": "line-228",
+    "speakerName": "Harari",
+    "timestamp": 1525620,
+    "duration": 5159,
+    "text": "whether climate change is real or whether vaccines prevent illnesses or"
+  },
+  {
+    "id": "line-229",
+    "speakerName": "Harari",
+    "timestamp": 1530779,
+    "duration": 7561,
+    "text": "not the new AI tools are far far more powerful than these social media"
+  },
+  {
+    "id": "line-230",
+    "speakerName": "Harari",
+    "timestamp": 1538340,
+    "duration": 5280,
+    "text": "algorithms and they could cause far more damage"
+  },
+  {
+    "id": "line-231",
+    "speakerName": "Harari",
+    "timestamp": 1543620,
+    "duration": 6659,
+    "text": "now of course AI has enormous positive potential too I didn't talk about it because the"
+  },
+  {
+    "id": "line-232",
+    "speakerName": "Harari",
+    "timestamp": 1550279,
+    "duration": 5221,
+    "text": "people who develop AI naturally talk about it enough you don't need me to to"
+  },
+  {
+    "id": "line-233",
+    "speakerName": "Harari",
+    "timestamp": 1555500,
+    "duration": 5220,
+    "text": "add up to that chorus the job of historians and and philosophers like"
+  },
+  {
+    "id": "line-234",
+    "speakerName": "Harari",
+    "timestamp": 1560720,
+    "duration": 7620,
+    "text": "myself is often to point out the dangers but certainly AI can help us in"
+  },
+  {
+    "id": "line-235",
+    "speakerName": "Harari",
+    "timestamp": 1568340,
+    "duration": 7140,
+    "text": "countless ways from finding new cures to cancer to discovering solutions to the"
+  },
+  {
+    "id": "line-236",
+    "speakerName": "Harari",
+    "timestamp": 1575480,
+    "duration": 6299,
+    "text": "ecological crisis that we are facing in order to make sure that the new AI"
+  },
+  {
+    "id": "line-237",
+    "speakerName": "Harari",
+    "timestamp": 1581779,
+    "duration": 6841,
+    "text": "tools are used for good and not from ill we first need to appreciate their true"
+  },
+  {
+    "id": "line-238",
+    "speakerName": "Harari",
+    "timestamp": 1588620,
+    "duration": 6419,
+    "text": "capabilities and we need to regulate them very very carefully"
+  },
+  {
+    "id": "line-239",
+    "speakerName": "Harari",
+    "timestamp": 1595039,
+    "duration": 7201,
+    "text": "since 1945 we knew that nuclear technology could destroy physically"
+  },
+  {
+    "id": "line-240",
+    "speakerName": "Harari",
+    "timestamp": 1602240,
+    "duration": 6960,
+    "text": "destroy human civilization as well as benefiting Us by producing cheap and"
+  },
+  {
+    "id": "line-241",
+    "speakerName": "Harari",
+    "timestamp": 1609200,
+    "duration": 7320,
+    "text": "plentiful energy we therefore reshaped the entire International order to protect ourselves"
+  },
+  {
+    "id": "line-242",
+    "speakerName": "Harari",
+    "timestamp": 1616520,
+    "duration": 6420,
+    "text": "and to make sure that nuclear technology is used primarily for good"
+  },
+  {
+    "id": "line-243",
+    "speakerName": "Harari",
+    "timestamp": 1622940,
+    "duration": 7140,
+    "text": "we now have to Grapple with a new weapon of mass destruction that can annihilate"
+  },
+  {
+    "id": "line-244",
+    "speakerName": "Harari",
+    "timestamp": 1630080,
+    "duration": 6660,
+    "text": "our mental and social world and one big difference between nukes and"
+  },
+  {
+    "id": "line-245",
+    "speakerName": "Harari",
+    "timestamp": 1636740,
+    "duration": 5220,
+    "text": "AI nukes cannot produce more powerful nukes"
+  },
+  {
+    "id": "line-246",
+    "speakerName": "Harari",
+    "timestamp": 1641960,
+    "duration": 8520,
+    "text": "AI can produce more powerful AI so we need to act quickly before AI gets out"
+  },
+  {
+    "id": "line-247",
+    "speakerName": "Harari",
+    "timestamp": 1650480,
+    "duration": 5340,
+    "text": "of our own control drug companies cannot sell people new"
+  },
+  {
+    "id": "line-248",
+    "speakerName": "Harari",
+    "timestamp": 1655820,
+    "duration": 6660,
+    "text": "medicines without first subjecting these products to rigorous safety checks"
+  },
+  {
+    "id": "line-249",
+    "speakerName": "Harari",
+    "timestamp": 1662480,
+    "duration": 6420,
+    "text": "biotech Labs cannot just release a new virus into the public sphere in order to"
+  },
+  {
+    "id": "line-250",
+    "speakerName": "Harari",
+    "timestamp": 1668900,
+    "duration": 8100,
+    "text": "impress their shareholders with the technological Wizardry similarly governments must immediately"
+  },
+  {
+    "id": "line-251",
+    "speakerName": "Harari",
+    "timestamp": 1677000,
+    "duration": 6299,
+    "text": "ban the release into the public domain of any more revolutionary AI tools"
+  },
+  {
+    "id": "line-252",
+    "speakerName": "Harari",
+    "timestamp": 1683299,
+    "duration": 8221,
+    "text": "before they are made safe again I'm not talking about stopping all research in AI the first step is to stop the release"
+  },
+  {
+    "id": "line-253",
+    "speakerName": "Harari",
+    "timestamp": 1691520,
+    "duration": 5880,
+    "text": "into the public school it's somewhere you can you can research viruses without releasing them to the public you can"
+  },
+  {
+    "id": "line-254",
+    "speakerName": "Harari",
+    "timestamp": 1697400,
+    "duration": 6920,
+    "text": "research AI but don't release them too quickly into the public domain"
+  },
+  {
+    "id": "line-255",
+    "speakerName": "Harari",
+    "timestamp": 1704419,
+    "duration": 5221,
+    "text": "um if we don't slow down the AI arms race we will not have time to even"
+  },
+  {
+    "id": "line-256",
+    "speakerName": "Harari",
+    "timestamp": 1709640,
+    "duration": 6300,
+    "text": "understand what is happening let alone to regulate effectively this incredibly"
+  },
+  {
+    "id": "line-257",
+    "speakerName": "Harari",
+    "timestamp": 1715940,
+    "duration": 5400,
+    "text": "powerful technology now you might be wondering or asking"
+  },
+  {
+    "id": "line-258",
+    "speakerName": "Harari",
+    "timestamp": 1721340,
+    "duration": 7199,
+    "text": "want slowing down the public deployment of AI cause democracies to lag behind"
+  },
+  {
+    "id": "line-259",
+    "speakerName": "Harari",
+    "timestamp": 1728539,
+    "duration": 6721,
+    "text": "more ruthless of the retirement regimes and the answer is absolutely no exactly"
+  },
+  {
+    "id": "line-260",
+    "speakerName": "Harari",
+    "timestamp": 1735260,
+    "duration": 7080,
+    "text": "the opposite unregulated AI deployment is what will cause democracies to lose to"
+  },
+  {
+    "id": "line-261",
+    "speakerName": "Harari",
+    "timestamp": 1742340,
+    "duration": 7520,
+    "text": "dictatorships because if we unleash chaos authoritarian regimes could more easily"
+  },
+  {
+    "id": "line-262",
+    "speakerName": "Harari",
+    "timestamp": 1749860,
+    "duration": 5319,
+    "text": "contain these chaos than could open societies"
+  },
+  {
+    "id": "line-263",
+    "speakerName": "Harari",
+    "timestamp": 1755179,
+    "duration": 5941,
+    "text": "democracy in essence is a conversation democracy is an open conversation you"
+  },
+  {
+    "id": "line-264",
+    "speakerName": "Harari",
+    "timestamp": 1761120,
+    "duration": 6000,
+    "text": "know dictatorship is a dictate there is one person dictating everything no conversation democracy is a conversation"
+  },
+  {
+    "id": "line-265",
+    "speakerName": "Harari",
+    "timestamp": 1767120,
+    "duration": 7080,
+    "text": "between many people about what to do and conversations rely on language"
+  },
+  {
+    "id": "line-266",
+    "speakerName": "Harari",
+    "timestamp": 1774200,
+    "duration": 7680,
+    "text": "when AI hacks language it means it could destroy our ability to conduct"
+  },
+  {
+    "id": "line-267",
+    "speakerName": "Harari",
+    "timestamp": 1781880,
+    "duration": 7860,
+    "text": "meaningful public conversations thereby destroying democracy if we wait for the"
+  },
+  {
+    "id": "line-268",
+    "speakerName": "Harari",
+    "timestamp": 1789740,
+    "duration": 5819,
+    "text": "chaos it will be too late to regulate it in a democratic way maybe in an"
+  },
+  {
+    "id": "line-269",
+    "speakerName": "Harari",
+    "timestamp": 1795559,
+    "duration": 6961,
+    "text": "authoritarian a totalitarian rate will still be possible to regulate but how can you regulate something democratically if you can't hold the"
+  },
+  {
+    "id": "line-270",
+    "speakerName": "Harari",
+    "timestamp": 1802520,
+    "duration": 7500,
+    "text": "conversation about it and if you didn't regulate AI on time you will not be able we will not be able to have a meaningful"
+  },
+  {
+    "id": "line-271",
+    "speakerName": "Harari",
+    "timestamp": 1810020,
+    "duration": 6300,
+    "text": "public conversation anymore so to conclude we have just basically"
+  },
+  {
+    "id": "line-272",
+    "speakerName": "Harari",
+    "timestamp": 1816320,
+    "duration": 5880,
+    "text": "encountered an alien intelligence not in outer space but here on Earth"
+  },
+  {
+    "id": "line-273",
+    "speakerName": "Harari",
+    "timestamp": 1822200,
+    "duration": 5099,
+    "text": "we don't know much about this alien intelligence except that it could"
+  },
+  {
+    "id": "line-274",
+    "speakerName": "Harari",
+    "timestamp": 1827299,
+    "duration": 7681,
+    "text": "destroy our civilization so we should put a halt to the irresponsible deployment of this alien"
+  },
+  {
+    "id": "line-275",
+    "speakerName": "Harari",
+    "timestamp": 1834980,
+    "duration": 8460,
+    "text": "intelligence into our societies and regulate AI before it regulates us"
+  },
+  {
+    "id": "line-276",
+    "speakerName": "Harari",
+    "timestamp": 1843440,
+    "duration": 5400,
+    "text": "and the first regulation that many regulations we could suggest but the first regulation that I would suggest is"
+  },
+  {
+    "id": "line-277",
+    "speakerName": "Harari",
+    "timestamp": 1848840,
+    "duration": 6600,
+    "text": "to make it mandatory for AI to disclose that it is an AI if I'm having a"
+  },
+  {
+    "id": "line-278",
+    "speakerName": "Harari",
+    "timestamp": 1855440,
+    "duration": 5339,
+    "text": "conversation with someone and I cannot tell whether this is a human being or an"
+  },
+  {
+    "id": "line-279",
+    "speakerName": "Harari",
+    "timestamp": 1860779,
+    "duration": 7821,
+    "text": "AI That's the end of democracy because that's the end of meaningful public conversations"
+  },
+  {
+    "id": "line-280",
+    "speakerName": "Harari",
+    "timestamp": 1868940,
+    "duration": 5160,
+    "text": "now what do you think about what you just heard over the last 20 or 25"
+  },
+  {
+    "id": "line-281",
+    "speakerName": "Harari",
+    "timestamp": 1874100,
+    "duration": 7020,
+    "text": "minutes some of you I guess might be alarmed some of you might be angry at the"
+  },
+  {
+    "id": "line-282",
+    "speakerName": "Harari",
+    "timestamp": 1881120,
+    "duration": 7260,
+    "text": "corporations that develop these Technologies or the governments that fail to regulate them some of you may be"
+  },
+  {
+    "id": "line-283",
+    "speakerName": "Harari",
+    "timestamp": 1888380,
+    "duration": 7140,
+    "text": "maybe angry at me thinking that I'm exaggerating the threat or the time misleading the public"
+  },
+  {
+    "id": "line-284",
+    "speakerName": "Harari",
+    "timestamp": 1895520,
+    "duration": 7680,
+    "text": "but whatever you think I bet that my words have had some emotional impact on"
+  },
+  {
+    "id": "line-285",
+    "speakerName": "Harari",
+    "timestamp": 1903200,
+    "duration": 5640,
+    "text": "you not just intellectual impact also emotional impact I've just told you a story"
+  },
+  {
+    "id": "line-286",
+    "speakerName": "Harari",
+    "timestamp": 1908840,
+    "duration": 5819,
+    "text": "and this story is likely to change your mind about certain things and may even"
+  },
+  {
+    "id": "line-287",
+    "speakerName": "Harari",
+    "timestamp": 1914659,
+    "duration": 7561,
+    "text": "cause you to take certain actions in the world now who created this story that you've"
+  },
+  {
+    "id": "line-288",
+    "speakerName": "Harari",
+    "timestamp": 1922220,
+    "duration": 6240,
+    "text": "just heard and that just changed your mind and your brain now I promised you that I wrote the text"
+  },
+  {
+    "id": "line-289",
+    "speakerName": "Harari",
+    "timestamp": 1928460,
+    "duration": 5099,
+    "text": "of this presentation myself with the help of a few other human beings even"
+  },
+  {
+    "id": "line-290",
+    "speakerName": "Harari",
+    "timestamp": 1933559,
+    "duration": 7081,
+    "text": "though the images have been created with the help of of AI I promise you"
+  },
+  {
+    "id": "line-291",
+    "speakerName": "Harari",
+    "timestamp": 1940640,
+    "duration": 5519,
+    "text": "that at least the words you heard of the cultural product of a human mind or"
+  },
+  {
+    "id": "line-292",
+    "speakerName": "Harari",
+    "timestamp": 1946159,
+    "duration": 6301,
+    "text": "several human minds but can you be absolutely sure that this is the case"
+  },
+  {
+    "id": "line-293",
+    "speakerName": "Harari",
+    "timestamp": 1952460,
+    "duration": 6480,
+    "text": "now a year ago you could a year ago there was nothing on Earth at"
+  },
+  {
+    "id": "line-294",
+    "speakerName": "Harari",
+    "timestamp": 1958940,
+    "duration": 5400,
+    "text": "least not in the public domain other than a human mind that could produce"
+  },
+  {
+    "id": "line-295",
+    "speakerName": "Harari",
+    "timestamp": 1964340,
+    "duration": 8100,
+    "text": "such a sophisticated and Powerful text but now it's different in theory the"
+  },
+  {
+    "id": "line-296",
+    "speakerName": "Harari",
+    "timestamp": 1972440,
+    "duration": 6000,
+    "text": "text you just heard could have been generated by a non-human alien"
+  },
+  {
+    "id": "line-297",
+    "speakerName": "Harari",
+    "timestamp": 1978440,
+    "duration": 5280,
+    "text": "intelligence so take a moment or more than a moment to think about it"
+  },
+  {
+    "id": "line-298",
+    "speakerName": "Harari",
+    "timestamp": 1983720,
+    "duration": 6480,
+    "text": "thank you [Applause]"
+  },
+  {
+    "id": "line-299",
+    "speakerName": "Harari",
+    "timestamp": 1990200,
+    "duration": 7199,
+    "text": "that was an extraordinary presentation you about and I'm actually going to just find out how many of you"
+  },
+  {
+    "id": "line-300",
+    "speakerName": "Harari",
+    "timestamp": 1997399,
+    "duration": 6361,
+    "text": "found that scary that is an awful lot of"
+  },
+  {
+    "id": "line-301",
+    "speakerName": "Harari",
+    "timestamp": 2003760,
+    "duration": 7080,
+    "text": "very clever people in here who found that scary there are many many questions to ask so I'm going to take some from"
+  },
+  {
+    "id": "line-302",
+    "speakerName": "Harari",
+    "timestamp": 2010840,
+    "duration": 7079,
+    "text": "the audience and some from online so a gentlemen here and the field trip editor of Frontiers"
+  },
+  {
+    "id": "line-303",
+    "speakerName": "Harari",
+    "timestamp": 2017919,
+    "duration": 8661,
+    "text": "and sustainability was wonderful presentation I love your book I follow you dearly in my heart so one one"
+  },
+  {
+    "id": "line-304",
+    "speakerName": "Harari",
+    "timestamp": 2026580,
+    "duration": 6819,
+    "text": "question out of many is that the about the regulation of AI"
+  },
+  {
+    "id": "line-305",
+    "speakerName": "Harari",
+    "timestamp": 2033399,
+    "duration": 6900,
+    "text": "regulating AI I very much agree with the principle but now the question becomes how right so"
+  },
+  {
+    "id": "line-306",
+    "speakerName": "Harari",
+    "timestamp": 2040299,
+    "duration": 6901,
+    "text": "um I think that it's very difficult to build the nuclear reactor in your basement but definitely you can train"
+  },
+  {
+    "id": "line-307",
+    "speakerName": "Harari",
+    "timestamp": 2047200,
+    "duration": 5760,
+    "text": "your AI in your basement quite easily so how can we regulate that and"
+  },
+  {
+    "id": "line-308",
+    "speakerName": "Harari",
+    "timestamp": 2052960,
+    "duration": 6000,
+    "text": "um one kind of related question to that is that well this whole Forum Frontiers and forum is really about open and"
+  },
+  {
+    "id": "line-309",
+    "speakerName": "Harari",
+    "timestamp": 2058960,
+    "duration": 5520,
+    "text": "Science and open information open data and most of AI that are out there is"
+  },
+  {
+    "id": "line-310",
+    "speakerName": "Harari",
+    "timestamp": 2064480,
+    "duration": 6898,
+    "text": "trained using publicly available information including patterns and books and scriptures right so regulating AI"
+  },
+  {
+    "id": "line-311",
+    "speakerName": "Harari",
+    "timestamp": 2071378,
+    "duration": 6842,
+    "text": "doesn't mean that we should regulate and bring those information in a confined space which goes against the open"
+  },
+  {
+    "id": "line-312",
+    "speakerName": "Harari",
+    "timestamp": 2078220,
+    "duration": 5879,
+    "text": "science and open data initiatives that we are really also thinking that is really important for us"
+  },
+  {
+    "id": "line-313",
+    "speakerName": "Harari",
+    "timestamp": 2084099,
+    "duration": 5641,
+    "text": "black box is an algorithm isn't it that's the algorithm no I know they'll always trade-offs"
+  },
+  {
+    "id": "line-314",
+    "speakerName": "Harari",
+    "timestamp": 2089740,
+    "duration": 7320,
+    "text": "and the thing is just to understand what kind of regulations we need we first need time now at present these very"
+  },
+  {
+    "id": "line-315",
+    "speakerName": "Harari",
+    "timestamp": 2097060,
+    "duration": 5279,
+    "text": "powerful AI tools they are still not produced by individual hackers in their"
+  },
+  {
+    "id": "line-316",
+    "speakerName": "Harari",
+    "timestamp": 2102339,
+    "duration": 7321,
+    "text": "basements you need an awful lot of computing power you need an awful lot of money so it's being led by just a few"
+  },
+  {
+    "id": "line-317",
+    "speakerName": "Harari",
+    "timestamp": 2109660,
+    "duration": 7500,
+    "text": "major corporations and governments and again it's going to be very very difficult to uh regulate something on a"
+  },
+  {
+    "id": "line-318",
+    "speakerName": "Harari",
+    "timestamp": 2117160,
+    "duration": 6120,
+    "text": "global level because it's it's an arms race but there are things which countries"
+  },
+  {
+    "id": "line-319",
+    "speakerName": "Harari",
+    "timestamp": 2123280,
+    "duration": 6960,
+    "text": "have a benefit to regulate even only themselves like again this example of an AI must"
+  },
+  {
+    "id": "line-320",
+    "speakerName": "Harari",
+    "timestamp": 2130240,
+    "duration": 6599,
+    "text": "when it is in interaction with a human must disclose that it is an AI even if"
+  },
+  {
+    "id": "line-321",
+    "speakerName": "Harari",
+    "timestamp": 2136839,
+    "duration": 6301,
+    "text": "some authoritarian regime doesn't want to do it the EU of the United States or other Democratic countries can have this"
+  },
+  {
+    "id": "line-322",
+    "speakerName": "Harari",
+    "timestamp": 2143140,
+    "duration": 5100,
+    "text": "and this is essential to protect the open Society now there are many"
+  },
+  {
+    "id": "line-323",
+    "speakerName": "Harari",
+    "timestamp": 2148240,
+    "duration": 5099,
+    "text": "questions around you know censorship online so you have this controversy about is"
+  },
+  {
+    "id": "line-324",
+    "speakerName": "Harari",
+    "timestamp": 2153339,
+    "duration": 6181,
+    "text": "Twitter or Facebook who authorized them to for instance prevent the former president of the United States"
+  },
+  {
+    "id": "line-325",
+    "speakerName": "Harari",
+    "timestamp": 2159520,
+    "duration": 7319,
+    "text": "from making public statements and this is a very complicated issue but there is a very simple issue"
+  },
+  {
+    "id": "line-326",
+    "speakerName": "Harari",
+    "timestamp": 2166839,
+    "duration": 6481,
+    "text": "with boss you know human beings have freedom of expression Bots don't have enough expression it's a human right"
+  },
+  {
+    "id": "line-327",
+    "speakerName": "Harari",
+    "timestamp": 2173320,
+    "duration": 5940,
+    "text": "humans have it buts don't so if you deny freedom of expression to bots I think"
+  },
+  {
+    "id": "line-328",
+    "speakerName": "Harari",
+    "timestamp": 2179260,
+    "duration": 6560,
+    "text": "that should be fine with everybody uh let's take another question is if you could just pass the microphone down here"
+  },
+  {
+    "id": "line-329",
+    "speakerName": "Harari",
+    "timestamp": 2185820,
+    "duration": 5740,
+    "text": "I'm Prince was dearest and I'm a philosopher I just have an interesting question oh I think it's an interesting"
+  },
+  {
+    "id": "line-330",
+    "speakerName": "Harari",
+    "timestamp": 2191560,
+    "duration": 5400,
+    "text": "question there you go um I have a question for you with respect to your choice of language moving from"
+  },
+  {
+    "id": "line-331",
+    "speakerName": "Harari",
+    "timestamp": 2196960,
+    "duration": 6180,
+    "text": "artificial to alien because artificial suggest that there's still some kind of human control whereas I think alien"
+  },
+  {
+    "id": "line-332",
+    "speakerName": "Harari",
+    "timestamp": 2203140,
+    "duration": 6360,
+    "text": "suggests foreign but it also suggests at least in the imagination of life form so I'm curious as to what work you're"
+  },
+  {
+    "id": "line-333",
+    "speakerName": "Harari",
+    "timestamp": 2209500,
+    "duration": 7440,
+    "text": "trying to have those words do for you yeah um it's definitely still artificial in the"
+  },
+  {
+    "id": "line-334",
+    "speakerName": "Harari",
+    "timestamp": 2216940,
+    "duration": 5700,
+    "text": "sense that we produce it but it's increasingly producing itself it's"
+  },
+  {
+    "id": "line-335",
+    "speakerName": "Harari",
+    "timestamp": 2222640,
+    "duration": 5520,
+    "text": "increasingly learning and adapting by itself so artificial is a kind of"
+  },
+  {
+    "id": "line-336",
+    "speakerName": "Harari",
+    "timestamp": 2228160,
+    "duration": 5699,
+    "text": "wishful thinking that it's still under our control and it's getting out of our"
+  },
+  {
+    "id": "line-337",
+    "speakerName": "Harari",
+    "timestamp": 2233859,
+    "duration": 6541,
+    "text": "control so in this sense it is becoming an alien force not necessarily evil"
+  },
+  {
+    "id": "line-338",
+    "speakerName": "Harari",
+    "timestamp": 2240400,
+    "duration": 5580,
+    "text": "again it can also do a lot of good things but the first thing to realize is it's alien we don't understand how it"
+  },
+  {
+    "id": "line-339",
+    "speakerName": "Harari",
+    "timestamp": 2245980,
+    "duration": 5460,
+    "text": "works or in one of the most shocking things about all this technology you talk to the people who lead it and you"
+  },
+  {
+    "id": "line-340",
+    "speakerName": "Harari",
+    "timestamp": 2251440,
+    "duration": 6000,
+    "text": "ask them questions about how it works what can I do and it says they said we don't know I mean we we know how we"
+  },
+  {
+    "id": "line-341",
+    "speakerName": "Harari",
+    "timestamp": 2257440,
+    "duration": 5940,
+    "text": "built it initially but then it it really learns by itself now there is an entire"
+  },
+  {
+    "id": "line-342",
+    "speakerName": "Harari",
+    "timestamp": 2263380,
+    "duration": 8160,
+    "text": "discussion to be had about whether this is a life form or not now I think that it still doesn't have"
+  },
+  {
+    "id": "line-343",
+    "speakerName": "Harari",
+    "timestamp": 2271540,
+    "duration": 6299,
+    "text": "any Consciousness and uh I don't think that it's impossible for it to develop Consciousness but I don't think it's"
+  },
+  {
+    "id": "line-344",
+    "speakerName": "Harari",
+    "timestamp": 2277839,
+    "duration": 6541,
+    "text": "necessary for it to develop Consciousness either that's a problematic that's an open question but"
+  },
+  {
+    "id": "line-345",
+    "speakerName": "Harari",
+    "timestamp": 2284380,
+    "duration": 7520,
+    "text": "life doesn't necessarily mean consciousness we have a lot of life forms microorganisms plants whatever"
+  },
+  {
+    "id": "line-346",
+    "speakerName": "Harari",
+    "timestamp": 2291900,
+    "duration": 5080,
+    "text": "fungi which we think they don't have Consciousness we still regard them as a"
+  },
+  {
+    "id": "line-347",
+    "speakerName": "Harari",
+    "timestamp": 2296980,
+    "duration": 6359,
+    "text": "life form and I think AI is getting very very close to that position ultimately of"
+  },
+  {
+    "id": "line-348",
+    "speakerName": "Harari",
+    "timestamp": 2303339,
+    "duration": 5101,
+    "text": "course what is life is a philosophical question I mean we Define the boundaries"
+  },
+  {
+    "id": "line-349",
+    "speakerName": "Harari",
+    "timestamp": 2308440,
+    "duration": 7139,
+    "text": "and you know like is a virus life or not we think that an amoeba is life but a virus it's somewhere just on on the"
+  },
+  {
+    "id": "line-350",
+    "speakerName": "Harari",
+    "timestamp": 2315579,
+    "duration": 6061,
+    "text": "borderline between life and not life um then it's you know it's it's language"
+  },
+  {
+    "id": "line-351",
+    "speakerName": "Harari",
+    "timestamp": 2321640,
+    "duration": 5100,
+    "text": "it's our choice of words so it's I think it's less it is"
+  },
+  {
+    "id": "line-352",
+    "speakerName": "Harari",
+    "timestamp": 2326740,
+    "duration": 5940,
+    "text": "important of course how we call AI but the most important thing is to really"
+  },
+  {
+    "id": "line-353",
+    "speakerName": "Harari",
+    "timestamp": 2332680,
+    "duration": 7380,
+    "text": "understand what we are facing and not to comfort ourselves with this kind of wishful thinking oh it's something we"
+  },
+  {
+    "id": "line-354",
+    "speakerName": "Harari",
+    "timestamp": 2340060,
+    "duration": 6360,
+    "text": "created it's our under our control if it does something wrong we'll just pull the plug nobody knows how to pull the plug"
+  },
+  {
+    "id": "line-355",
+    "speakerName": "Harari",
+    "timestamp": 2346420,
+    "duration": 5520,
+    "text": "anymore I'm going to take a question from our online audience"
+  },
+  {
+    "id": "line-356",
+    "speakerName": "Harari",
+    "timestamp": 2351940,
+    "duration": 6419,
+    "text": "um I've uh this is from Michael Brown in the US what do you think about the possibility that artificial general"
+  },
+  {
+    "id": "line-357",
+    "speakerName": "Harari",
+    "timestamp": 2358359,
+    "duration": 5521,
+    "text": "intelligence already exists and it or those who have access to artificial"
+  },
+  {
+    "id": "line-358",
+    "speakerName": "Harari",
+    "timestamp": 2363880,
+    "duration": 5100,
+    "text": "general intelligence are already influencing societal systems I think"
+  },
+  {
+    "id": "line-359",
+    "speakerName": "Harari",
+    "timestamp": 2368980,
+    "duration": 5220,
+    "text": "it's very very unlikely we wouldn't be sitting here if the actually existed an"
+  },
+  {
+    "id": "line-360",
+    "speakerName": "Harari",
+    "timestamp": 2374200,
+    "duration": 6360,
+    "text": "artificial general intelligence when I look at the world and the chaotic stage it's I mean artificial general"
+  },
+  {
+    "id": "line-361",
+    "speakerName": "Harari",
+    "timestamp": 2380560,
+    "duration": 5580,
+    "text": "intelligence is really the end of human history and it's such a powerful thing it's not"
+  },
+  {
+    "id": "line-362",
+    "speakerName": "Harari",
+    "timestamp": 2386140,
+    "duration": 5880,
+    "text": "something that anybody can contain and um so when I look at the chaotic"
+  },
+  {
+    "id": "line-363",
+    "speakerName": "Harari",
+    "timestamp": 2392020,
+    "duration": 5220,
+    "text": "state of the world I'm quite confident again from a historical perspective that"
+  },
+  {
+    "id": "line-364",
+    "speakerName": "Harari",
+    "timestamp": 2397240,
+    "duration": 6540,
+    "text": "nobody has it anywhere um how much time it will take to develop artificial general intelligence I don't"
+  },
+  {
+    "id": "line-365",
+    "speakerName": "Harari",
+    "timestamp": 2403780,
+    "duration": 7200,
+    "text": "know um but to threaten the foundations of civilization we don't need artificial"
+  },
+  {
+    "id": "line-366",
+    "speakerName": "Harari",
+    "timestamp": 2410980,
+    "duration": 6119,
+    "text": "general intelligence and then going back to social media very very primitive AI"
+  },
+  {
+    "id": "line-367",
+    "speakerName": "Harari",
+    "timestamp": 2417099,
+    "duration": 6061,
+    "text": "was still sufficient to create enormous social and political chaos if I think"
+  },
+  {
+    "id": "line-368",
+    "speakerName": "Harari",
+    "timestamp": 2423160,
+    "duration": 7620,
+    "text": "about it in kind of evolutionary terms so AI now just crawled out of the organic soup like the first organisms"
+  },
+  {
+    "id": "line-369",
+    "speakerName": "Harari",
+    "timestamp": 2430780,
+    "duration": 6480,
+    "text": "that crawled out of the organic soup four billion years ago how long it will take it to reach"
+  },
+  {
+    "id": "line-370",
+    "speakerName": "Harari",
+    "timestamp": 2437260,
+    "duration": 5160,
+    "text": "Tyrannosaurus Rex how long it will take it to reach Homo sapiens not for billion"
+  },
+  {
+    "id": "line-371",
+    "speakerName": "Harari",
+    "timestamp": 2442420,
+    "duration": 7980,
+    "text": "years could be just 40 years it's the thing about digital Evolution it's moving on a"
+  },
+  {
+    "id": "line-372",
+    "speakerName": "Harari",
+    "timestamp": 2450400,
+    "duration": 5340,
+    "text": "completely different time scale than organic evolution can I thank you it's"
+  },
+  {
+    "id": "line-373",
+    "speakerName": "Harari",
+    "timestamp": 2455740,
+    "duration": 5280,
+    "text": "been absolutely wonderful it's been such a treat to have you here and"
+  },
+  {
+    "id": "line-374",
+    "speakerName": "Harari",
+    "timestamp": 2461020,
+    "duration": 5460,
+    "text": "I've no doubt you'll stay with us for a little uh while afterwards but the whole"
+  },
+  {
+    "id": "line-375",
+    "speakerName": "Harari",
+    "timestamp": 2466480,
+    "duration": 7030,
+    "text": "audience please join me in thanking [Applause]"
+  },
+  {
+    "id": "line-376",
+    "speakerName": "Harari",
+    "timestamp": 2473510,
+    "duration": 7870,
+    "text": "[Music]"
+  }
+]

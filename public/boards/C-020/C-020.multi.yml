@@ -1,0 +1,4 @@
+masonry:
+  columns: 3
+  itemType: article
+  fixedRatio: 0.8

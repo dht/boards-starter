@@ -1,0 +1,21 @@
+{
+  "n1": {
+    "id": "n1",
+    "nodeType": "llm",
+    "label": "Send message",
+    "api": {
+      "apiType": "dalle",
+      "formatInput": "default",
+      "purpose": "Generate an image that follows this description"
+    },
+    "position": { "x": 250, "y": 0 },
+    "connectors": ["n2"]
+  },
+  "n2": {
+    "id": "n2",
+    "label": "Respond",
+    "nodeType": "outcome",
+    "position": { "x": 250, "y": 150 },
+    "connectors": []
+  }
+}

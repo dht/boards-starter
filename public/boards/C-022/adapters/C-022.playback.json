@@ -1,0 +1,8 @@
+{
+  "providerType": "REST",
+  "baseUrl": "http://localhost",
+  "port": 3001,
+  "paths": {
+    "api": "/api"
+  }
+}

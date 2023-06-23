@@ -1,0 +1,83 @@
+{
+    "id": "40b2",
+    "raw": "Arnold: Hey guys, have you ever heard of BabylonJS graphics engine?\n\nRachel: Hmm, no I haven't. What is it?\n\nSam: I think I heard about it before. Isn't it a 3D game engine?\n\nArnold: Yes, that's right. It is a powerful web-based graphics engine used for creating interactive 3D experiences on the web.\n\nRachel: Interesting. What kind of features does it have?\n\nArnold: Well, it supports platforms like WebGL and WebVR. It has a lot of features like shaders, physics engine, collision detection, and animation tools. I heard it's also really easy to use.\n\nSam: Sounds cool. Have you tried using it before?\n\nArnold: Not yet, but I'm planning to try it out soon. I'm really interested in creating some 3D web experiences.\n\nRachel: Same here. It sounds like a really useful tool for web development.\n\nSam: Definitely. I'll have to check it out myself. Thanks for bringing it up, Arnold.\n\nArnold: No problem, guys. Can't wait to start using it!",
+    "sentences": [
+        {
+            "id": "l-0",
+            "speakerName": "Arnold",
+            "text": " Hey guys, have you ever heard of BabylonJS graphics engine?",
+            "audioUrl": "line-1.mp3",
+            "textPhonetics": "\"Hey gaɪz, hæv ju ˈɛvər hɜrd əv ˈbæbəlɑn dʒeɪ ɛs ˈgræfɪks ˈɛndʒɪn?\""
+        },
+        {
+            "id": "l-1",
+            "speakerName": "Rachel",
+            "text": " Hmm, no I haven't. What is it?",
+            "audioUrl": "line-2.mp3",
+            "textPhonetics": "/hm  noʊ ˈaɪ ˈhævənt  wʌt ɪz ɪt/"
+        },
+        {
+            "id": "l-2",
+            "speakerName": "Sam",
+            "text": " I think I heard about it before. Isn't it a 3D game engine?",
+            "audioUrl": "line-3.mp3",
+            "textPhonetics": "aɪ θɪŋk aɪ hɜrd əbaʊt ɪt bɪfɔr. ɪzənt ɪt ə 3di geɪm ɛndʒɪn?"
+        },
+        {
+            "id": "l-3",
+            "speakerName": "Arnold",
+            "text": " Yes, that's right. It is a powerful web-based graphics engine used for creating interactive 3D experiences on the web.",
+            "audioUrl": "line-4.mp3",
+            "textPhonetics": "jɛs ðæts raɪt. ɪt ɪz ə paʊərful wɛb-beɪst ɡræfɪks ɛndʒɪn juzd fɔr kriˈeɪtɪŋ ɪntərˈæktɪv ˈθri di ɪksˈpɪrɪnsɪz ɒn ðə wɛb."
+        },
+        {
+            "id": "l-4",
+            "speakerName": "Rachel",
+            "text": " Interesting. What kind of features does it have?",
+            "audioUrl": "line-5.mp3",
+            "textPhonetics": "/ˈɪntrəstɪŋ. ˈwɒt kaɪnd əv ˈfiːtʃəz ˈdʌz ɪt hæv/"
+        },
+        {
+            "id": "l-5",
+            "speakerName": "Arnold",
+            "text": " Well, it supports platforms like WebGL and WebVR. It has a lot of features like shaders, physics engine, collision detection, and animation tools. I heard it's also really easy to use.",
+            "audioUrl": "line-6.mp3",
+            "textPhonetics": "/wɛl, ɪt səˈpɔrts ˈplætfɔrmz laɪk WebGL ænd ˈwɛbˌviːɑr. ɪt hæz ə lɑt əv ˈfiːtʃərz laɪk ˈʃeɪdərz, ˈfɪzɪks ˈɛndʒən, kəˈlɪʒən dɪˈtɛkʃən, ænd ˌænəˈmeɪʃən tuːlz. aɪ ˈhɜrd ɪts ˈɔlsoʊ ˈrɪli ˈiːzi tu ˈjuz./"
+        },
+        {
+            "id": "l-6",
+            "speakerName": "Sam",
+            "text": " Sounds cool. Have you tried using it before?",
+            "audioUrl": "line-7.mp3",
+            "textPhonetics": "/saʊndz kul. hæv ju traɪd juːzɪŋ ɪt bɪfɔːr/"
+        },
+        {
+            "id": "l-7",
+            "speakerName": "Arnold",
+            "text": " Not yet, but I'm planning to try it out soon. I'm really interested in creating some 3D web experiences.",
+            "audioUrl": "line-8.mp3",
+            "textPhonetics": "nɑt jɛt, bət ˌaɪˈem ˈplænɪŋ tuː ˈtraɪ ɪt ˈaʊt sun. ˌaɪm ˈrɪli ˈɪntrəstɪd ɪn kriˈeɪtɪŋ ˈsʌm 3d wɛb ɪksˈpɪrɪnsɪz."
+        },
+        {
+            "id": "l-8",
+            "speakerName": "Rachel",
+            "text": " Same here. It sounds like a really useful tool for web development.",
+            "audioUrl": "line-9.mp3",
+            "textPhonetics": "/seɪm hɪr/ /ɪt saʊndz laɪk ə ˈrɪli ˈjusfəl tuːl fɔr wɛb dɪˈvɛləpmənt/"
+        },
+        {
+            "id": "l-9",
+            "speakerName": "Sam",
+            "text": " Definitely. I'll have to check it out myself. Thanks for bringing it up, Arnold.",
+            "audioUrl": "line-10.mp3",
+            "textPhonetics": "\"ˈdɛfənɪtli. aɪl hæv tə tʃɛk ɪt aʊt maɪˈsɛlf. θæŋks fɔr ˈbrɪŋɪŋ ɪt ʌp, ˈɑrnəld.\""
+        },
+        {
+            "id": "l-10",
+            "speakerName": "Arnold",
+            "text": " No problem, guys. Can't wait to start using it!",
+            "audioUrl": "line-11.mp3",
+            "textPhonetics": "\"No ˈprɑbləm, gaɪz. kænt weɪt tu stɑrt ˈjuzɪŋ ɪt!\""
+        }
+    ]
+}

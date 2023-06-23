@@ -1,0 +1,118 @@
+{
+    "id": "215e",
+    "raw": "Arnold: Hey, have you guys heard about the recent discovery on Mars?\n\nRachel: No, what is it?\n\nArnold: Apparently, NASA found evidence of water on Mars.\n\nSam: Wow, that's impressive.\n\nRachel: Wait, are you serious? That's not true.\n\nArnold: What do you mean? I read an article about it yesterday.\n\nRachel: I don't think that's true. There hasn't been any recent news about water on Mars.\n\nSam: Yeah, I haven't heard anything about that either.\n\nArnold: Well, I'm pretty sure it's real.\n\nRachel: You shouldn't believe everything you read online. Always fact-check your sources.\n\nSam: Yeah, it's important to make sure you're getting accurate information.\n\nArnold: Oh, I see what happened. I accidentally read a fake news article.\n\nRachel: Ah, that makes more sense.\n\nSam: It's always a good idea to double-check information before sharing it with others.\n\nArnold: Thanks for letting me know. I'll be more careful in the future. \n\nRachel: No problem, it happens to all of us.",
+    "sentences": [
+        {
+            "id": "l-0",
+            "speakerName": "Arnold",
+            "text": " Hey, have you guys heard about the recent discovery on Mars?",
+            "audioUrl": "line-1.mp3",
+            "textPhonetics": "\"Hey, hæv ju gaiz hɜrd əbaʊt ðə ri-sənt dɪsˈkʌvri ɒn mɑːz?\""
+        },
+        {
+            "id": "l-1",
+            "speakerName": "Rachel",
+            "text": " No, what is it?",
+            "audioUrl": "line-2.mp3",
+            "textPhonetics": "/nəʊ, wɒt ɪz ɪt?/"
+        },
+        {
+            "id": "l-2",
+            "speakerName": "Arnold",
+            "text": " Apparently, NASA found evidence of water on Mars.",
+            "audioUrl": "line-3.mp3",
+            "textPhonetics": "əˈpærəntli, ˈnæsə faʊnd ˈɛvɪdəns əv ˈwɔtər ɒn mɑːz."
+        },
+        {
+            "id": "l-3",
+            "speakerName": "Sam",
+            "text": " Wow, that's impressive.",
+            "audioUrl": "line-4.mp3",
+            "textPhonetics": "/waʊ ðæts ɪmˈprɛsɪv/"
+        },
+        {
+            "id": "l-4",
+            "speakerName": "Rachel",
+            "text": " Wait, are you serious? That's not true.",
+            "audioUrl": "line-5.mp3",
+            "textPhonetics": "/weɪt, ɑː juː ˈsɪəriəs? ðæts nɒt truː./"
+        },
+        {
+            "id": "l-5",
+            "speakerName": "Arnold",
+            "text": " What do you mean? I read an article about it yesterday.",
+            "audioUrl": "line-6.mp3",
+            "textPhonetics": "\"wɒt du ju miːn? aɪ riːd ən ɑːtɪkl əˈbaʊt ɪt ˈjɛstədeɪ.\""
+        },
+        {
+            "id": "l-6",
+            "speakerName": "Rachel",
+            "text": " I don't think that's true. There hasn't been any recent news about water on Mars.",
+            "audioUrl": "line-7.mp3",
+            "textPhonetics": "aɪ doʊnt θɪŋk ðæts truː. ðer hæzənt bɪn ɛni ɹisnt nuz əbaʊt wɔtər ɑn mɑrz."
+        },
+        {
+            "id": "l-7",
+            "speakerName": "Sam",
+            "text": " Yeah, I haven't heard anything about that either.",
+            "audioUrl": "line-8.mp3",
+            "textPhonetics": "/jɛər/ /aɪ/ /hævnt/ /hɜrd/ /ˈɛniθɪŋ/ /əˈbaʊt/ /ðæt/ /ˈaɪðər/."
+        },
+        {
+            "id": "l-8",
+            "speakerName": "Arnold",
+            "text": " Well, I'm pretty sure it's real.",
+            "audioUrl": "line-9.mp3",
+            "textPhonetics": "/wɛl, aɪm ˈprɪti ʃʊr ɪts riːl/"
+        },
+        {
+            "id": "l-9",
+            "speakerName": "Rachel",
+            "text": " You shouldn't believe everything you read online. Always fact-check your sources.",
+            "audioUrl": "line-10.mp3",
+            "textPhonetics": "/ju ˈʃʊdnt bɪˈliv ˈɛvriθɪŋ ju rid ˈɑnlaɪn. ˈɔlweɪz fækt-ʧɛk jɔr ˈsɔrsɪz./"
+        },
+        {
+            "id": "l-10",
+            "speakerName": "Sam",
+            "text": " Yeah, it's important to make sure you're getting accurate information.",
+            "audioUrl": "line-11.mp3",
+            "textPhonetics": "jə, ɪts ɪmˈpɔrtənt tu meɪk ʃʊr ˈjʊr ˈɡɛtɪŋ ˈækjərət ˌɪnfərˈmeɪʃən."
+        },
+        {
+            "id": "l-11",
+            "speakerName": "Arnold",
+            "text": " Oh, I see what happened. I accidentally read a fake news article.",
+            "audioUrl": "line-12.mp3",
+            "textPhonetics": "/əʊ, ˈaɪ siː wɒt ˈhæpənd. aɪ əkˈsɪdəntəlɪ rɛd ə feɪk njuz ˈɑːtɪkl/"
+        },
+        {
+            "id": "l-12",
+            "speakerName": "Rachel",
+            "text": " Ah, that makes more sense.",
+            "audioUrl": "line-13.mp3",
+            "textPhonetics": "/ə, ðæt meɪks mɔːr sɛns/"
+        },
+        {
+            "id": "l-13",
+            "speakerName": "Sam",
+            "text": " It's always a good idea to double-check information before sharing it with others.",
+            "audioUrl": "line-14.mp3",
+            "textPhonetics": "ɪts ɔːlweɪz ə ɡʊd aɪˈdiːə tuː ˈdʌbəl-ʧek ˌɪnfərˈmeɪʃən bɪˈfɔː ˈʃeərɪŋ ɪt wɪð ˈʌðərz."
+        },
+        {
+            "id": "l-14",
+            "speakerName": "Arnold",
+            "text": " Thanks for letting me know. I'll be more careful in the future. ",
+            "audioUrl": "line-15.mp3",
+            "textPhonetics": "/θæŋks fɔr ˈlɛtɪŋ mi noʊ/. /aɪl bi mɔr ˈkɛrfəl ɪn ðə ˈfjutʃɚ/."
+        },
+        {
+            "id": "l-15",
+            "speakerName": "Rachel",
+            "text": " No problem, it happens to all of us.",
+            "audioUrl": "line-16.mp3",
+            "textPhonetics": "nəʊ ˈprɒbləm, ɪt ˈhæpənz tu ɔːl əv ʌs."
+        }
+    ]
+}

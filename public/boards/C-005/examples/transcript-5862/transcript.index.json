@@ -1,0 +1,90 @@
+{
+    "id": "5862",
+    "raw": "Rachel: Hey guys, have you guys heard about quantum mechanics? I was reading about it in one of my science classes and it seems so fascinating.\n\nSam: I think I've heard the term before but I'm not really sure what it is.\n\nArnold: Quantum mechanics is the branch of physics that deals with the behavior of matter and energy on a very tiny scale, such as atoms and subatomic particles.\n\nRachel: Yeah, that's right! And the weirdest thing about it is that things can be in two different places at once, or exist in multiple states at once.\n\nSam: Wait, what do you mean? That sounds crazy.\n\nArnold: It's called superposition, essentially a particle exists in multiple states at once until it's observed or measured, which leads to the collapse of its probable states into a single, observable state.\n\nRachel: And then there's also this idea of entanglement, where particles can be connected in a way that their states are correlated, even if they're separated by vast distances.\n\nSam: Wow, that's all so mind-boggling. I'm more into sports than science, but I gotta admit that's really fascinating.\n\nArnold: Yeah, quantum mechanics is definitely a trip. And it's not just for scientists, it has practical applications in things like computer chips and electronics.\n\nRachel: That's cool. I love how science and technology can intersect with art in so many ways, too. It's all connected.\n\nSam: Plus, you never know what kind of leap in human understanding is going to come from learning more about quantum mechanics. Who knows, we might be able to do some truly incredible things in the future. \n\nArnold: Exactly! The possibilities are endless. I'm excited to see what we uncover next.",
+    "sentences": [
+        {
+            "id": "l-0",
+            "speakerName": "Rachel",
+            "text": " Hey guys, have you guys heard about quantum mechanics? I was reading about it in one of my science classes and it seems so fascinating.",
+            "audioUrl": "line-1.mp3",
+            "textPhonetics": "/ˈheɪ ɡaɪz hæv ju ɡaɪz hɜːrd əˈbaʊt ˈkwɒntəm mɪˈkænɪks aɪ wəz ˈriːdɪŋ əˈbaʊt ɪt ɪn wʌn əv maɪ ˈsaɪəns ˈklɑːsɪz ənd ɪt siːmz səʊ ˈfæsəneɪtɪŋ/"
+        },
+        {
+            "id": "l-1",
+            "speakerName": "Sam",
+            "text": " I think I've heard the term before but I'm not really sure what it is.",
+            "audioUrl": "line-2.mp3",
+            "textPhonetics": "aɪ θɪŋk aɪv hɜrd ðə tɜrm bəfɔr bət aɪm nɑt rɪli ʃʊr wɑt ɪt ɪz."
+        },
+        {
+            "id": "l-2",
+            "speakerName": "Arnold",
+            "text": " Quantum mechanics is the branch of physics that deals with the behavior of matter and energy on a very tiny scale, such as atoms and subatomic particles.",
+            "audioUrl": "line-3.mp3",
+            "textPhonetics": "/ˈkwɒntəm mɛkənɪks ɪz ðə bræntʃ əv ˈfɪzɪks ðæt dilz wɪð ðə bɪˈheɪvɪər əv ˈmætər ənd ˈɛnədʒi ɒn ə ˈvɛri ˈtaɪni skeɪl, sʌtʃ əz ˈætəmz ənd ˈsʌbəˌtɒmɪk ˈpɑːtɪkəlz/"
+        },
+        {
+            "id": "l-3",
+            "speakerName": "Rachel",
+            "text": " Yeah, that's right! And the weirdest thing about it is that things can be in two different places at once, or exist in multiple states at once.",
+            "audioUrl": "line-4.mp3",
+            "textPhonetics": "/jæh ðæts raɪt/ /ænd ði ˈwɪər.dəst θɪŋ əˈbaʊt ɪt ɪz ðæt θɪŋz kæn bi ɪn tu ˈdɪfrənt ˈpleɪsəz ət wʌns/ /ɔr ɪɡˈzɪst ɪn ˈmʌltɪpl steɪts ət wʌns/"
+        },
+        {
+            "id": "l-4",
+            "speakerName": "Sam",
+            "text": " Wait, what do you mean? That sounds crazy.",
+            "audioUrl": "line-5.mp3",
+            "textPhonetics": "/weɪt, wʌt du jʊ min? ðæt saʊndz kreɪzi./"
+        },
+        {
+            "id": "l-5",
+            "speakerName": "Arnold",
+            "text": " It's called superposition, essentially a particle exists in multiple states at once until it's observed or measured, which leads to the collapse of its probable states into a single, observable state.",
+            "audioUrl": "line-6.mp3",
+            "textPhonetics": "ɪts kɔld suːpərpəzɪʃən, ɪsenʃəli ə pɑrtɪkl ɪgˈzɪsts ɪn ˈmʌltəpl steɪts ət wʌns ʌntɪl ɪts əbˈzɜrvd ɔr ˈmɛʒərd, wɪtʃ liːdz tə ðə ˈkælæps əv ɪts prɒbəbl steɪts ˈɪntu ə ˈsɪŋgl, əbˈzɜrvəbl steɪt."
+        },
+        {
+            "id": "l-6",
+            "speakerName": "Rachel",
+            "text": " And then there's also this idea of entanglement, where particles can be connected in a way that their states are correlated, even if they're separated by vast distances.",
+            "audioUrl": "line-7.mp3",
+            "textPhonetics": "ænd ðɛn ðɛrz ɔlsoʊ ðɪs aɪˈdiə ʌv ɛntæŋɡəlmənt, wɛr ˈpɑːtəklz kæn bi kəˈnɛktəd ɪn ə weɪ ðæt ðɛr steɪts ɑr ˈkɔrəleɪtɪd, ˈivən ɪf ðɛr ˈsɛprəteɪtəd baɪ væst ˈdɪstənsəz."
+        },
+        {
+            "id": "l-7",
+            "speakerName": "Sam",
+            "text": " Wow, that's all so mind-boggling. I'm more into sports than science, but I gotta admit that's really fascinating.",
+            "audioUrl": "line-8.mp3",
+            "textPhonetics": "\"wäʊ, ðæts ɔːl soʊ maɪnd-ˈbɔɡəlɪŋ. aɪm mɔːr ˈɪntu spɔːrts ðən ˈsaɪəns, bət aɪ ˈɡɑtə ədˈmɪt ðæts ˈrɪəli ˈfæsəneɪtɪŋ.\""
+        },
+        {
+            "id": "l-8",
+            "speakerName": "Arnold",
+            "text": " Yeah, quantum mechanics is definitely a trip. And it's not just for scientists, it has practical applications in things like computer chips and electronics.",
+            "audioUrl": "line-9.mp3",
+            "textPhonetics": "/jæ/ /kwɒntʌm/ /mɛkənɪks/ /ɪz/ /ˈdɛfɪnɪtli/ /ə/ /trɪp/. /ænd/ /ɪts/ /nɒt/ /dʒʌst/ /fɔːr/ /ˈsaɪəntɪsts/, /ɪt/ /hæz/ /ˈpræktɪkəl/ /æplɪˈkeɪʃənz/ /ɪn/ /θɪŋz/ /laɪk/ /kəmˈpjuːtər/ /ʧɪps/ /ænd/ /ɪlɛkˈtrɒnɪks/."
+        },
+        {
+            "id": "l-9",
+            "speakerName": "Rachel",
+            "text": " That's cool. I love how science and technology can intersect with art in so many ways, too. It's all connected.",
+            "audioUrl": "line-10.mp3",
+            "textPhonetics": "/ðæts kuːl. aɪ lʌv haʊ saɪəns ənd tɛknɑlədʒi kæn ɪntərsɛkt wɪð ɑːt ɪn soʊ ˈmɛni weɪz, tuː. ɪts ɔl kəˈnɛktəd./"
+        },
+        {
+            "id": "l-10",
+            "speakerName": "Sam",
+            "text": " Plus, you never know what kind of leap in human understanding is going to come from learning more about quantum mechanics. Who knows, we might be able to do some truly incredible things in the future. ",
+            "audioUrl": "line-11.mp3",
+            "textPhonetics": "plʌs, ju nɛvə noʊ wɑt kaɪnd əv lip ɪn hyumən əndərstændɪŋ ɪz ɡoʊɪn tə kʌm frəm lɜrnɪŋ mɔr əbaʊt kwɑntəm mɛkənɪks. hu noʊz, wi maɪt bi eɪbl tə du sʌm truːli ɪnkrɛdəbəl θɪŋz ɪn ðə fjuːtʃər."
+        },
+        {
+            "id": "l-11",
+            "speakerName": "Arnold",
+            "text": " Exactly! The possibilities are endless. I'm excited to see what we uncover next.",
+            "audioUrl": "line-12.mp3",
+            "textPhonetics": "/ɛgzæktli! ðə pɒsəbɪlɪtiz ɑːr ɛndlɪs. aɪm ɪkˈsaɪtɪd tuː siː wɒt wiː ʌnkʌvər nɛkst./"
+        }
+    ]
+}

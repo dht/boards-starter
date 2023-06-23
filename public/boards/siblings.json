@@ -1,0 +1,775 @@
+{
+  "s1": {
+    "id": "s1",
+    "name": "AutoWise",
+    "description": "Spawn agents",
+    "imageThumbUrl": "http://localhost:3001/boards/C-001/screenshot.thumb.webp",
+    "imageUrl": "http://localhost:3001/boards/C-001/screenshot.webp",
+    "boardId": "C-001",
+    "tags": [],
+    "isEnabled": false,
+    "authorName": "dht",
+    "url": "/boards/C-001",
+    "stats": {
+      "lastUpdated": "2023-06-24T00:00:00.000Z",
+      "totalVotes": 0,
+      "totalAverage": 0
+    }
+  },
+  "s2": {
+    "id": "s2",
+    "name": "ProjectPro",
+    "description": "Manage projects",
+    "imageThumbUrl": "http://localhost:3001/boards/C-002/screenshot.thumb.webp",
+    "imageUrl": "http://localhost:3001/boards/C-002/screenshot.webp",
+    "boardId": "C-002",
+    "tags": [],
+    "isEnabled": false,
+    "authorName": "dht",
+    "stats": {
+      "lastUpdated": "2023-06-24T00:00:00.000Z",
+      "totalVotes": 0,
+      "totalAverage": 0
+    },
+    "url": "/boards/C-002"
+  },
+  "s3": {
+    "id": "s3",
+    "name": "ChitChat",
+    "description": "A simplified ChatGPT interface",
+    "imageThumbUrl": "http://localhost:3001/boards/C-003/screenshot.thumb.webp",
+    "imageUrl": "http://localhost:3001/boards/C-003/screenshot.webp",
+    "boardId": "C-003",
+    "isEnabled": true,
+    "authorName": "dht",
+    "stats": {
+      "lastUpdated": "2023-06-24T00:00:00.000Z",
+      "totalVotes": 96,
+      "totalAverage": 4
+    },
+    "url": "/boards/C-003",
+    "ratio": 1.2196969696969697
+  },
+  "s4": {
+    "id": "s4",
+    "name": "ImageCraft",
+    "description": "Prompt to image with Dalle2",
+    "imageThumbUrl": "http://localhost:3001/boards/C-004/screenshot.thumb.webp",
+    "imageUrl": "http://localhost:3001/boards/C-004/screenshot.webp",
+    "boardId": "C-004",
+    "isEnabled": true,
+    "authorName": "dht",
+    "stats": {
+      "lastUpdated": "2023-06-24T00:00:00.000Z",
+      "totalVotes": 142,
+      "totalAverage": 3.5
+    },
+    "url": "/boards/C-004",
+    "ratio": 0.9980353634577603
+  },
+  "s5": {
+    "id": "s5",
+    "name": "3D Dialogue",
+    "description": "Prompt to 3D conversation",
+    "imageThumbUrl": "http://localhost:3001/boards/C-005/screenshot.thumb.webp",
+    "imageUrl": "http://localhost:3001/boards/C-005/screenshot.webp",
+    "boardId": "C-005",
+    "isEnabled": true,
+    "authorName": "dht",
+    "stats": {
+      "lastUpdated": "2023-06-24T00:00:00.000Z",
+      "totalVotes": 214,
+      "totalAverage": 4.4
+    },
+    "url": "/boards/C-005",
+    "ratio": 1.2503770739064857
+  },
+  "s6": {
+    "id": "s6",
+    "name": "Phor",
+    "description": "clever metaphors",
+    "imageThumbUrl": "http://localhost:3001/boards/C-006/screenshot.thumb.webp",
+    "imageUrl": "http://localhost:3001/boards/C-006/screenshot.webp",
+    "boardId": "C-006",
+    "isEnabled": false,
+    "authorName": "dht",
+    "stats": {
+      "lastUpdated": "2023-06-24T00:00:00.000Z",
+      "totalVotes": 0,
+      "totalAverage": 0
+    },
+    "url": "/boards/C-006"
+  },
+  "s7": {
+    "id": "s7",
+    "name": "Download-to-reality",
+    "description": "art projects index",
+    "imageThumbUrl": "http://localhost:3001/boards/C-007/screenshot.thumb.webp",
+    "imageUrl": "http://localhost:3001/boards/C-007/screenshot.webp",
+    "boardId": "C-007",
+    "isEnabled": false,
+    "authorName": "dht",
+    "stats": {
+      "lastUpdated": "2023-06-24T00:00:00.000Z",
+      "totalVotes": 0,
+      "totalAverage": 0
+    },
+    "url": "/boards/C-007"
+  },
+  "s8": {
+    "id": "s8",
+    "name": "Wiki",
+    "description": "articles wiki",
+    "imageThumbUrl": "http://localhost:3001/boards/C-008/screenshot.thumb.webp",
+    "imageUrl": "http://localhost:3001/boards/C-008/screenshot.webp",
+    "boardId": "C-008",
+    "isEnabled": false,
+    "authorName": "dht",
+    "stats": {
+      "lastUpdated": "2023-06-24T00:00:00.000Z",
+      "totalVotes": 0,
+      "totalAverage": 0
+    },
+    "url": "/boards/C-008"
+  },
+  "s9": {
+    "id": "s9",
+    "name": "Foram",
+    "description": "for street art",
+    "imageThumbUrl": "http://localhost:3001/boards/C-009/screenshot.thumb.webp",
+    "imageUrl": "http://localhost:3001/boards/C-009/screenshot.webp",
+    "boardId": "C-009",
+    "isEnabled": false,
+    "authorName": "dht",
+    "stats": {
+      "lastUpdated": "2023-06-24T00:00:00.000Z",
+      "totalVotes": 0,
+      "totalAverage": 0
+    },
+    "url": "/boards/C-009"
+  },
+  "s10": {
+    "id": "s10",
+    "name": "Balance",
+    "description": "Attention manager",
+    "imageThumbUrl": "http://localhost:3001/boards/C-010/screenshot.thumb.webp",
+    "imageUrl": "http://localhost:3001/boards/C-010/screenshot.webp",
+    "boardId": "C-010",
+    "isEnabled": true,
+    "authorName": "dht",
+    "stats": {
+      "lastUpdated": "2023-06-24T00:00:00.000Z",
+      "totalVotes": 158,
+      "totalAverage": 4.1
+    },
+    "url": "/boards/C-010",
+    "ratio": 1.2607758620689655
+  },
+  "s11": {
+    "id": "s11",
+    "name": "Events",
+    "description": "events index (enjoy the ride)",
+    "imageThumbUrl": "http://localhost:3001/boards/C-011/screenshot.thumb.webp",
+    "imageUrl": "http://localhost:3001/boards/C-011/screenshot.webp",
+    "boardId": "C-011",
+    "isEnabled": false,
+    "authorName": "dht",
+    "stats": {
+      "lastUpdated": "2023-06-24T00:00:00.000Z",
+      "totalVotes": 0,
+      "totalAverage": 0
+    },
+    "url": "/boards/C-011"
+  },
+  "s12": {
+    "id": "s12",
+    "name": "Peoplo",
+    "description": "notion-like contacts",
+    "imageThumbUrl": "http://localhost:3001/boards/C-012/screenshot.thumb.webp",
+    "imageUrl": "http://localhost:3001/boards/C-012/screenshot.webp",
+    "boardId": "C-012",
+    "isEnabled": false,
+    "authorName": "dht",
+    "stats": {
+      "lastUpdated": "2023-06-24T00:00:00.000Z",
+      "totalVotes": 0,
+      "totalAverage": 0
+    },
+    "url": "/boards/C-012"
+  },
+  "s13": {
+    "id": "s13",
+    "name": "MoneySense",
+    "description": "expense tracker",
+    "imageThumbUrl": "http://localhost:3001/boards/C-013/screenshot.thumb.webp",
+    "imageUrl": "http://localhost:3001/boards/C-013/screenshot.webp",
+    "boardId": "C-013",
+    "isEnabled": false,
+    "authorName": "dht",
+    "stats": {
+      "lastUpdated": "2023-06-24T00:00:00.000Z",
+      "totalVotes": 0,
+      "totalAverage": 0
+    },
+    "url": "/boards/C-013"
+  },
+  "s14": {
+    "id": "s14",
+    "name": "TaskMaster",
+    "description": "manage tickets",
+    "imageThumbUrl": "http://localhost:3001/boards/C-014/screenshot.thumb.webp",
+    "imageUrl": "http://localhost:3001/boards/C-014/screenshot.webp",
+    "boardId": "C-014",
+    "isEnabled": false,
+    "authorName": "dht",
+    "stats": {
+      "lastUpdated": "2023-06-24T00:00:00.000Z",
+      "totalVotes": 0,
+      "totalAverage": 0
+    },
+    "url": "/boards/C-014",
+    "ratio": 1.2196969696969697
+  },
+  "s15": {
+    "id": "s15",
+    "name": "Aloha",
+    "description": "IOT lobby greeter",
+    "imageThumbUrl": "http://localhost:3001/boards/C-015/screenshot.thumb.webp",
+    "imageUrl": "http://localhost:3001/boards/C-015/screenshot.webp",
+    "boardId": "C-015",
+    "isEnabled": false,
+    "authorName": "dht",
+    "stats": {
+      "lastUpdated": "2023-06-24T00:00:00.000Z",
+      "totalVotes": 0,
+      "totalAverage": 0
+    },
+    "url": "/boards/C-015"
+  },
+  "s16": {
+    "id": "s16",
+    "name": "Poe",
+    "description": "personal assistant",
+    "imageThumbUrl": "http://localhost:3001/boards/C-016/screenshot.thumb.webp",
+    "imageUrl": "http://localhost:3001/boards/C-016/screenshot.webp",
+    "boardId": "C-016",
+    "isEnabled": false,
+    "authorName": "dht",
+    "stats": {
+      "lastUpdated": "2023-06-24T00:00:00.000Z",
+      "totalVotes": 0,
+      "totalAverage": 0
+    },
+    "url": "/boards/C-016"
+  },
+  "s17": {
+    "id": "s17",
+    "name": "Food",
+    "description": "weekly plan",
+    "imageThumbUrl": "http://localhost:3001/boards/C-017/screenshot.thumb.webp",
+    "imageUrl": "http://localhost:3001/boards/C-017/screenshot.webp",
+    "boardId": "C-017",
+    "isEnabled": false,
+    "authorName": "dht",
+    "stats": {
+      "lastUpdated": "2023-06-24T00:00:00.000Z",
+      "totalVotes": 0,
+      "totalAverage": 0
+    },
+    "url": "/boards/C-017"
+  },
+  "s18": {
+    "id": "s18",
+    "name": "TDD Tester",
+    "description": "workspace",
+    "imageThumbUrl": "http://localhost:3001/boards/C-018/screenshot.thumb.webp",
+    "imageUrl": "http://localhost:3001/boards/C-018/screenshot.webp",
+    "boardId": "C-018",
+    "isEnabled": false,
+    "authorName": "dht",
+    "stats": {
+      "lastUpdated": "2023-06-24T00:00:00.000Z",
+      "totalVotes": 0,
+      "totalAverage": 0
+    },
+    "url": "/boards/C-018"
+  },
+  "s19": {
+    "id": "s19",
+    "name": "gui-guy.com",
+    "description": "personal site",
+    "imageThumbUrl": "http://localhost:3001/boards/C-019/screenshot.thumb.webp",
+    "imageUrl": "http://localhost:3001/boards/C-019/screenshot.webp",
+    "boardId": "C-019",
+    "isEnabled": false,
+    "authorName": "dht",
+    "stats": {
+      "lastUpdated": "2023-06-24T00:00:00.000Z",
+      "totalVotes": 0,
+      "totalAverage": 0
+    },
+    "url": "/boards/C-019"
+  },
+  "s20": {
+    "id": "s20",
+    "name": "usegdi.com",
+    "description": "project site",
+    "imageThumbUrl": "http://localhost:3001/boards/C-020/screenshot.thumb.webp",
+    "imageUrl": "http://localhost:3001/boards/C-020/screenshot.webp",
+    "boardId": "C-020",
+    "isEnabled": false,
+    "authorName": "dht",
+    "stats": {
+      "lastUpdated": "2023-06-24T00:00:00.000Z",
+      "totalVotes": 0,
+      "totalAverage": 0
+    },
+    "url": "/boards/C-020",
+    "ratio": 1.2196969696969697
+  },
+  "s21": {
+    "id": "s21",
+    "name": "LogicTube",
+    "description": "detect logical fallacies in youtube videos",
+    "imageThumbUrl": "http://localhost:3001/boards/C-021/screenshot.thumb.webp",
+    "imageUrl": "http://localhost:3001/boards/C-021/screenshot.webp",
+    "boardId": "C-021",
+    "isEnabled": true,
+    "authorName": "dht",
+    "stats": {
+      "lastUpdated": "2023-06-24T00:00:00.000Z",
+      "totalVotes": 349,
+      "totalAverage": 4.2
+    },
+    "url": "/boards/C-021",
+    "ratio": 1.7702127659574467
+  },
+  "s22": {
+    "id": "s22",
+    "name": "Urban Companion",
+    "description": "3D urban bag product tour",
+    "imageThumbUrl": "http://localhost:3001/boards/C-022/screenshot.thumb.webp",
+    "imageUrl": "http://localhost:3001/boards/C-022/screenshot.webp",
+    "boardId": "C-022",
+    "isEnabled": true,
+    "authorName": "dht",
+    "stats": {
+      "lastUpdated": "2023-06-24T00:00:00.000Z",
+      "totalVotes": 142,
+      "totalAverage": 4.5
+    },
+    "url": "/boards/C-022",
+    "ratio": 1.2196969696969697
+  },
+  "s23": {
+    "id": "s23",
+    "name": "TrioGuide",
+    "description": "llm-guide-person",
+    "imageThumbUrl": "http://localhost:3001/boards/C-023/screenshot.thumb.webp",
+    "imageUrl": "http://localhost:3001/boards/C-023/screenshot.webp",
+    "boardId": "C-023",
+    "isEnabled": false,
+    "authorName": "dht",
+    "stats": {
+      "lastUpdated": "2023-06-24T00:00:00.000Z",
+      "totalVotes": 0,
+      "totalAverage": 0
+    },
+    "url": "/boards/C-023"
+  },
+  "s24": {
+    "id": "s24",
+    "name": "Hearthstone Buddy",
+    "description": "game analysis",
+    "imageThumbUrl": "http://localhost:3001/boards/C-024/screenshot.thumb.webp",
+    "imageUrl": "http://localhost:3001/boards/C-024/screenshot.webp",
+    "boardId": "C-024",
+    "isEnabled": false,
+    "authorName": "dht",
+    "stats": {
+      "lastUpdated": "2023-06-24T00:00:00.000Z",
+      "totalVotes": 0,
+      "totalAverage": 0
+    },
+    "url": "/boards/C-024"
+  },
+  "s25": {
+    "id": "s25",
+    "name": "Motion3D",
+    "description": "3D stop motion scene creator",
+    "imageThumbUrl": "http://localhost:3001/boards/C-025/screenshot.thumb.webp",
+    "imageUrl": "http://localhost:3001/boards/C-025/screenshot.webp",
+    "boardId": "C-025",
+    "isEnabled": false,
+    "authorName": "dht",
+    "stats": {
+      "lastUpdated": "2023-06-24T00:00:00.000Z",
+      "totalVotes": 0,
+      "totalAverage": 0
+    },
+    "url": "/boards/C-025",
+    "ratio": 1.2196969696969697
+  },
+  "s26": {
+    "id": "s26",
+    "name": "MicroRoom",
+    "description": "3D interactive monitor",
+    "imageThumbUrl": "http://localhost:3001/boards/C-026/screenshot.thumb.webp",
+    "imageUrl": "http://localhost:3001/boards/C-026/screenshot.webp",
+    "boardId": "C-026",
+    "isEnabled": false,
+    "authorName": "dht",
+    "stats": {
+      "lastUpdated": "2023-06-24T00:00:00.000Z",
+      "totalVotes": 0,
+      "totalAverage": 0
+    },
+    "url": "/boards/C-026"
+  },
+  "s27": {
+    "id": "s27",
+    "name": "SeatFinder",
+    "description": "find wembley spots tickets in 3D",
+    "imageThumbUrl": "http://localhost:3001/boards/C-027/screenshot.thumb.webp",
+    "imageUrl": "http://localhost:3001/boards/C-027/screenshot.webp",
+    "boardId": "C-027",
+    "isEnabled": false,
+    "authorName": "dht",
+    "stats": {
+      "lastUpdated": "2023-06-24T00:00:00.000Z",
+      "totalVotes": 0,
+      "totalAverage": 0
+    },
+    "url": "/boards/C-027"
+  },
+  "s28": {
+    "id": "s28",
+    "name": "TourMate",
+    "description": "plan a on-sight tour",
+    "imageThumbUrl": "http://localhost:3001/boards/C-028/screenshot.thumb.webp",
+    "imageUrl": "http://localhost:3001/boards/C-028/screenshot.webp",
+    "boardId": "C-028",
+    "isEnabled": false,
+    "authorName": "dht",
+    "stats": {
+      "lastUpdated": "2023-06-24T00:00:00.000Z",
+      "totalVotes": 0,
+      "totalAverage": 0
+    },
+    "url": "/boards/C-028"
+  },
+  "s29": {
+    "id": "s29",
+    "name": "FuturisticUI",
+    "description": "conceptual HUD",
+    "imageThumbUrl": "http://localhost:3001/boards/C-029/screenshot.thumb.webp",
+    "imageUrl": "http://localhost:3001/boards/C-029/screenshot.webp",
+    "boardId": "C-029",
+    "isEnabled": false,
+    "authorName": "dht",
+    "stats": {
+      "lastUpdated": "2023-06-24T00:00:00.000Z",
+      "totalVotes": 0,
+      "totalAverage": 0
+    },
+    "url": "/boards/C-029"
+  },
+  "s30": {
+    "id": "s30",
+    "name": "SocialSandbox",
+    "description": "playground for embeds",
+    "imageThumbUrl": "http://localhost:3001/boards/C-030/screenshot.thumb.webp",
+    "imageUrl": "http://localhost:3001/boards/C-030/screenshot.webp",
+    "boardId": "C-030",
+    "isEnabled": false,
+    "authorName": "dht",
+    "stats": {
+      "lastUpdated": "2023-06-24T00:00:00.000Z",
+      "totalVotes": 0,
+      "totalAverage": 0
+    },
+    "url": "/boards/C-030"
+  },
+  "s31": {
+    "id": "s31",
+    "name": "SiteSandbox",
+    "description": "playground for sites",
+    "imageThumbUrl": "http://localhost:3001/boards/C-031/screenshot.thumb.webp",
+    "imageUrl": "http://localhost:3001/boards/C-031/screenshot.webp",
+    "boardId": "C-031",
+    "isEnabled": false,
+    "authorName": "dht",
+    "stats": {
+      "lastUpdated": "2023-06-24T00:00:00.000Z",
+      "totalVotes": 0,
+      "totalAverage": 0
+    },
+    "url": "/boards/C-031"
+  },
+  "s32": {
+    "id": "s32",
+    "name": "Uno",
+    "description": "plan each day with colors",
+    "imageThumbUrl": "http://localhost:3001/boards/C-032/screenshot.thumb.webp",
+    "imageUrl": "http://localhost:3001/boards/C-032/screenshot.webp",
+    "boardId": "C-032",
+    "isEnabled": false,
+    "authorName": "dht",
+    "stats": {
+      "lastUpdated": "2023-06-24T00:00:00.000Z",
+      "totalVotes": 0,
+      "totalAverage": 0
+    },
+    "url": "/boards/C-032"
+  },
+  "s33": {
+    "id": "s33",
+    "name": "Dev Process",
+    "description": "Follow the dev process",
+    "imageThumbUrl": "http://localhost:3001/boards/C-033/screenshot.thumb.webp",
+    "imageUrl": "http://localhost:3001/boards/C-033/screenshot.webp",
+    "boardId": "C-033",
+    "isEnabled": false,
+    "authorName": "dht",
+    "stats": {
+      "lastUpdated": "2023-06-24T00:00:00.000Z",
+      "totalVotes": 0,
+      "totalAverage": 0
+    },
+    "url": "/boards/C-033"
+  },
+  "s34": {
+    "id": "s34",
+    "name": "DanceMentro",
+    "description": "dance school via embeds",
+    "imageThumbUrl": "http://localhost:3001/boards/C-034/screenshot.thumb.webp",
+    "imageUrl": "http://localhost:3001/boards/C-034/screenshot.webp",
+    "boardId": "C-034",
+    "isEnabled": false,
+    "authorName": "dht",
+    "stats": {
+      "lastUpdated": "2023-06-24T00:00:00.000Z",
+      "totalVotes": 0,
+      "totalAverage": 0
+    },
+    "url": "/boards/C-034"
+  },
+  "s35": {
+    "id": "s35",
+    "name": "Things",
+    "description": "urban idiosyncrasies index",
+    "imageThumbUrl": "http://localhost:3001/boards/C-035/screenshot.thumb.webp",
+    "imageUrl": "http://localhost:3001/boards/C-035/screenshot.webp",
+    "boardId": "C-035",
+    "isEnabled": false,
+    "authorName": "dht",
+    "stats": {
+      "lastUpdated": "2023-06-24T00:00:00.000Z",
+      "totalVotes": 0,
+      "totalAverage": 0
+    },
+    "url": "/boards/C-035"
+  },
+  "s36": {
+    "id": "s36",
+    "name": "Greek",
+    "description": "spot in posts / discussions",
+    "imageThumbUrl": "http://localhost:3001/boards/C-036/screenshot.thumb.webp",
+    "imageUrl": "http://localhost:3001/boards/C-036/screenshot.webp",
+    "boardId": "C-036",
+    "isEnabled": false,
+    "authorName": "dht",
+    "stats": {
+      "lastUpdated": "2023-06-24T00:00:00.000Z",
+      "totalVotes": 0,
+      "totalAverage": 0
+    },
+    "url": "/boards/C-036"
+  },
+  "s37": {
+    "id": "s37",
+    "name": "Popcorn Politics",
+    "description": "politicians warhol, they say their piece",
+    "imageThumbUrl": "http://localhost:3001/boards/C-037/screenshot.thumb.webp",
+    "imageUrl": "http://localhost:3001/boards/C-037/screenshot.webp",
+    "boardId": "C-037",
+    "isEnabled": false,
+    "authorName": "dht",
+    "stats": {
+      "lastUpdated": "2023-06-24T00:00:00.000Z",
+      "totalVotes": 0,
+      "totalAverage": 0
+    },
+    "url": "/boards/C-037"
+  },
+  "s38": {
+    "id": "s38",
+    "name": "BrainTrain",
+    "description": "model training via 3D brain simulation with midi",
+    "imageThumbUrl": "http://localhost:3001/boards/C-038/screenshot.thumb.webp",
+    "imageUrl": "http://localhost:3001/boards/C-038/screenshot.webp",
+    "boardId": "C-038",
+    "isEnabled": false,
+    "authorName": "dht",
+    "stats": {
+      "lastUpdated": "2023-06-24T00:00:00.000Z",
+      "totalVotes": 0,
+      "totalAverage": 0
+    },
+    "url": "/boards/C-038"
+  },
+  "s39": {
+    "id": "s39",
+    "name": "Domino",
+    "description": "longest chain reaction",
+    "imageThumbUrl": "http://localhost:3001/boards/C-039/screenshot.thumb.webp",
+    "imageUrl": "http://localhost:3001/boards/C-039/screenshot.webp",
+    "boardId": "C-039",
+    "isEnabled": false,
+    "authorName": "dht",
+    "stats": {
+      "lastUpdated": "2023-06-24T00:00:00.000Z",
+      "totalVotes": 0,
+      "totalAverage": 0
+    },
+    "url": "/boards/C-039"
+  },
+  "s40": {
+    "id": "s40",
+    "name": "Whistler",
+    "description": "practice whistling",
+    "imageThumbUrl": "http://localhost:3001/boards/C-040/screenshot.thumb.webp",
+    "imageUrl": "http://localhost:3001/boards/C-040/screenshot.webp",
+    "boardId": "C-040",
+    "isEnabled": false,
+    "authorName": "dht",
+    "stats": {
+      "lastUpdated": "2023-06-24T00:00:00.000Z",
+      "totalVotes": 0,
+      "totalAverage": 0
+    },
+    "url": "/boards/C-040"
+  },
+  "s41": {
+    "id": "s41",
+    "name": "GyroArt",
+    "description": "control 3D",
+    "imageThumbUrl": "http://localhost:3001/boards/C-041/screenshot.thumb.webp",
+    "imageUrl": "http://localhost:3001/boards/C-041/screenshot.webp",
+    "boardId": "C-041",
+    "isEnabled": false,
+    "authorName": "dht",
+    "stats": {
+      "lastUpdated": "2023-06-24T00:00:00.000Z",
+      "totalVotes": 0,
+      "totalAverage": 0
+    },
+    "url": "/boards/C-041"
+  },
+  "s42": {
+    "id": "s42",
+    "name": "DIFM",
+    "description": "index for DIFM (i.e. in-person training how to setup youtube studio)",
+    "imageThumbUrl": "http://localhost:3001/boards/C-042/screenshot.thumb.webp",
+    "imageUrl": "http://localhost:3001/boards/C-042/screenshot.webp",
+    "boardId": "C-042",
+    "isEnabled": false,
+    "authorName": "dht",
+    "stats": {
+      "lastUpdated": "2023-06-24T00:00:00.000Z",
+      "totalVotes": 0,
+      "totalAverage": 0
+    },
+    "url": "/boards/C-042"
+  },
+  "s43": {
+    "id": "s43",
+    "name": "Board placeholder",
+    "description": "Future boards will be placed here",
+    "imageThumbUrl": "http://localhost:3001/boards/screenshot.thumb.webp",
+    "imageUrl": "http://localhost:3001/boards/screenshot.webp",
+    "boardId": "C-043",
+    "isEnabled": true,
+    "authorName": "you?",
+    "stats": {
+      "lastUpdated": "2023-06-24T00:00:00.000Z",
+      "totalVotes": 0,
+      "totalAverage": 0
+    }
+  },
+  "s44": {
+    "id": "s44",
+    "name": "Board placeholder",
+    "description": "Future boards will be placed here",
+    "imageThumbUrl": "http://localhost:3001/boards/screenshot.thumb.webp",
+    "imageUrl": "http://localhost:3001/boards/screenshot.webp",
+    "boardId": "C-044",
+    "isEnabled": true,
+    "authorName": "you?",
+    "stats": {
+      "lastUpdated": "2023-06-24T00:00:00.000Z",
+      "totalVotes": 0,
+      "totalAverage": 0
+    }
+  },
+  "s45": {
+    "id": "s45",
+    "name": "Board placeholder",
+    "description": "Future boards will be placed here",
+    "imageThumbUrl": "http://localhost:3001/boards/screenshot.thumb.webp",
+    "imageUrl": "http://localhost:3001/boards/screenshot.webp",
+    "boardId": "C-045",
+    "isEnabled": true,
+    "authorName": "you?",
+    "stats": {
+      "lastUpdated": "2023-06-24T00:00:00.000Z",
+      "totalVotes": 0,
+      "totalAverage": 0
+    }
+  },
+  "s46": {
+    "id": "s46",
+    "name": "Board placeholder",
+    "description": "Future boards will be placed here",
+    "imageThumbUrl": "http://localhost:3001/boards/screenshot.thumb.webp",
+    "imageUrl": "http://localhost:3001/boards/screenshot.webp",
+    "boardId": "C-046",
+    "isEnabled": true,
+    "authorName": "you?",
+    "stats": {
+      "lastUpdated": "2023-06-24T00:00:00.000Z",
+      "totalVotes": 0,
+      "totalAverage": 0
+    }
+  },
+  "s47": {
+    "id": "s47",
+    "name": "Board placeholder",
+    "description": "Future boards will be placed here",
+    "imageThumbUrl": "http://localhost:3001/boards/screenshot.thumb.webp",
+    "imageUrl": "http://localhost:3001/boards/screenshot.webp",
+    "boardId": "C-047",
+    "isEnabled": true,
+    "authorName": "you?",
+    "stats": {
+      "lastUpdated": "2023-06-24T00:00:00.000Z",
+      "totalVotes": 0,
+      "totalAverage": 0
+    }
+  },
+  "s48": {
+    "id": "s48",
+    "name": "Board placeholder",
+    "description": "Future boards will be placed here",
+    "imageThumbUrl": "http://localhost:3001/boards/screenshot.thumb.webp",
+    "imageUrl": "http://localhost:3001/boards/screenshot.webp",
+    "boardId": "C-048",
+    "isEnabled": true,
+    "authorName": "you?",
+    "stats": {
+      "lastUpdated": "2023-06-24T00:00:00.000Z",
+      "totalVotes": 0,
+      "totalAverage": 0
+    }
+  }
+}

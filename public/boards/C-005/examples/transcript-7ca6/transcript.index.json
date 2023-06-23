@@ -1,0 +1,69 @@
+{
+    "id": "7ca6",
+    "raw": "Arnold: Have you guys heard about digital nomads?\n\nRachel: Yeah, they're basically people who can work from anywhere as long as they have a laptop and internet access.\n\nSam: I have a friend who's a digital nomad and travels the world while working remotely.\n\nArnold: That sounds amazing! Do they have to work specific hours or can they work whenever they want?\n\nRachel: I think it depends on their job and their employer, but typically they have more flexibility.\n\nSam: Exactly, but it also requires a lot of self-discipline and organization to balance work and travel.\n\nArnold: I can imagine, but it sounds like a dream to be able to work while exploring new places.\n\nRachel: It definitely has its pros and cons, but it's definitely a growing trend in the modern workforce. \n\nSam: I could see myself trying it out in the future, but for now, I think I'll stick to a more traditional office job.",
+    "sentences": [
+        {
+            "id": "l-0",
+            "speakerName": "Arnold",
+            "text": " Have you guys heard about digital nomads?",
+            "audioUrl": "line-1.mp3",
+            "textPhonetics": "/hæv ju: gaɪz hɜ:d əbaʊt dɪdʒɪtəl nəʊmædz?/"
+        },
+        {
+            "id": "l-1",
+            "speakerName": "Rachel",
+            "text": " Yeah, they're basically people who can work from anywhere as long as they have a laptop and internet access.",
+            "audioUrl": "line-2.mp3",
+            "textPhonetics": "/jæ, ðeɪr ˈbeɪsɪkli ˈpipəl hu kæn wɜrk frɒm ˈenihweər æz lɒŋ æz ðeɪ hæv ə ˈlæpˌtɑp ænd ˈɪntərnɛt ˈæksɛs/"
+        },
+        {
+            "id": "l-2",
+            "speakerName": "Sam",
+            "text": " I have a friend who's a digital nomad and travels the world while working remotely.",
+            "audioUrl": "line-3.mp3",
+            "textPhonetics": "aɪ hæv ə frɛnd hu z ə dɪdʒɪtəl noʊmæd ænd trævəlz ðə wɔrld hwajl wɜrkɪŋ rɪmowtli."
+        },
+        {
+            "id": "l-3",
+            "speakerName": "Arnold",
+            "text": " That sounds amazing! Do they have to work specific hours or can they work whenever they want?",
+            "audioUrl": "line-4.mp3",
+            "textPhonetics": "\"ðæt saʊndz əˈmeɪzɪŋ! du ðeɪ hæv tə wɜrk spəˈsɪfɪk ˈaʊɚz ɔr kæn ðeɪ wɜrk wɛnˈɛvər ðeɪ wɑnt?\""
+        },
+        {
+            "id": "l-4",
+            "speakerName": "Rachel",
+            "text": " I think it depends on their job and their employer, but typically they have more flexibility.",
+            "audioUrl": "line-5.mp3",
+            "textPhonetics": "aɪ θɪŋk ɪt dɪˈpɛndz ɒn ðeər dʒɒb ənd ðeər ɪmˈplɔɪər, bət ˈtɪpɪkəli ðeɪ hæv mɔːr flɛksɪˈbɪlɪti."
+        },
+        {
+            "id": "l-5",
+            "speakerName": "Sam",
+            "text": " Exactly, but it also requires a lot of self-discipline and organization to balance work and travel.",
+            "audioUrl": "line-6.mp3",
+            "textPhonetics": "/ɪɡˈzæk.tli bʌt ɪt ˈɔlsoʊ rɪˈkwaɪrz ə lɒt əv sɛlf-ˈdɪsəplɪn ənd ˌɔːrɡənəˈzeɪʃən tə ˈbæləns wɜrk ənd ˈtrævəl./"
+        },
+        {
+            "id": "l-6",
+            "speakerName": "Arnold",
+            "text": " I can imagine, but it sounds like a dream to be able to work while exploring new places.",
+            "audioUrl": "line-7.mp3",
+            "textPhonetics": "aɪ kæn ˈɪmədʒɪn, bət ɪt saʊndz laɪk ə driːm tuː bi eɪbl tuː wɜːrk waɪl ɪksplɔːrɪŋ nju ˈpleɪsɪz."
+        },
+        {
+            "id": "l-7",
+            "speakerName": "Rachel",
+            "text": " It definitely has its pros and cons, but it's definitely a growing trend in the modern workforce. ",
+            "audioUrl": "line-8.mp3",
+            "textPhonetics": "/ɪt ˈdɛfənɪtli hæz ɪts prəʊz ənd kɒnz, bʌt ɪts ˈdɛfənɪtli ə ˈɡrəʊɪŋ trɛnd ɪn ðə ˈmɒdən ˈwɔːkfɔːs/."
+        },
+        {
+            "id": "l-8",
+            "speakerName": "Sam",
+            "text": " I could see myself trying it out in the future, but for now, I think I'll stick to a more traditional office job.",
+            "audioUrl": "line-9.mp3",
+            "textPhonetics": "aɪ kʊd si maɪˈsɛlf ˈtraɪɪŋ ɪt aʊt ɪn ðə ˈfjutʃər, bət fɔr naʊ, aɪ ˈθɪŋk aɪl stɪk tu ə mɔr trəˈdɪʃənəl ˈɔfɪs ʤɑb."
+        }
+    ]
+}

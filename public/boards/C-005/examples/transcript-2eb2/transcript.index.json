@@ -1,0 +1,62 @@
+{
+    "id": "2eb2",
+    "raw": "Arnold: \"What We Do in the Shadows is hands down the best vampire mockumentary ever made! I mean, the way it blends humor and horror is sheer genius. And the characters? They are hilarious!\"\n\nRachel: \"I disagree. I think it's just another generic vampire flick. Yeah, it has some funny moments, but it's not as good as people make it out to be. It's just a bunch of vampires trying to adapt to modern life, and it gets old pretty quickly.\"\n\nSam: \"You guys are both wrong. It's not just a vampire mockumentary; it's a clever critique of society and our obsession with immortality. The characters are so well-developed, and the special effects are amazing. Plus, the scene where they go out to a nightclub is comedy gold!\"\n\nArnold: \"Exactly! The nightclub scene is one of the funniest things I've ever seen. And don't get me started on the bat-fight scene. That was epic!\"\n\nRachel: \"Okay, I'll admit that the bat-fight scene was pretty cool. But still, I don't think it's as good as people say it is.\"\n\nSam: \"Well, I guess we'll just have to agree to disagree. But to me, What We Do in the Shadows is a modern classic that every horror and comedy lover should watch at least once.\" \n\nArnold: \"Agreed! It's a vampire tale that brings something new to the genre, and the humor is cleverly interwoven throughout the movie. It's definitely worth watching.\" \n\nRachel: \"I still disagree, but I can see why people might like it. It's just not my thing.\"",
+    "sentences": [
+        {
+            "id": "l-0",
+            "speakerName": "Arnold",
+            "text": " \"What We Do in the Shadows is hands down the best vampire mockumentary ever made! I mean, the way it blends humor and horror is sheer genius. And the characters? They are hilarious!\"",
+            "audioUrl": "line-1.mp3",
+            "textPhonetics": "/wɑt wi du ɪn ðə ʃædowz ɪz hændz daʊn ðə bɛst væmpaɪər mɒkjumentɛri ɛvər meɪd! aɪ miːn, ðə weɪ ɪt blɛndz hjumər ænd hɔrɔr ɪz ʃɪr dʒiːniəs. ænd ðə kærəktərz? ðeɪ ɑr hɪˈlɛriəs! /"
+        },
+        {
+            "id": "l-1",
+            "speakerName": "Rachel",
+            "text": " \"I disagree. I think it's just another generic vampire flick. Yeah, it has some funny moments, but it's not as good as people make it out to be. It's just a bunch of vampires trying to adapt to modern life, and it gets old pretty quickly.\"",
+            "audioUrl": "line-2.mp3",
+            "textPhonetics": "\"I disə'gri. ɑɪ θɪŋk ɪts ʤəst ə'nʌðər dʒə'nɛrɪk 'væmpaɪər flɪk. yɛ, ɪt hæz sʌm ˈfʌni 'momənts, bət ɪts nɑt əz ɡʊd əz 'pipəl meɪk ɪt aʊt tu bi. ɪts ʤəst ə bʌnʧ əv 'væmpaɪərz 'traɪɪŋ tu ə'dæpt tu 'mɑdərn laɪf, ənd ɪt ɡɛts oʊld 'prɪti 'kwɪkli.\""
+        },
+        {
+            "id": "l-2",
+            "speakerName": "Sam",
+            "text": " \"You guys are both wrong. It's not just a vampire mockumentary; it's a clever critique of society and our obsession with immortality. The characters are so well-developed, and the special effects are amazing. Plus, the scene where they go out to a nightclub is comedy gold!\"",
+            "audioUrl": "line-3.mp3",
+            "textPhonetics": "/ju ɡaɪz ɑr boʊθ rɔŋ/. /ɪts nɑt ʤʌst ə ˈvæmpaɪr ˈmɑkjuˌmɛntəri ɪts ə ˈklɛvər kriˈtik əv səˈsaɪəti ænd ɑr əbˈsɛʃən wɪð ɪˌmɔrtælɪti/. /ðə ˈkærəktərz ɑr soʊ wɛl-ˈdɛvəpt/, ænd ðə ˈspɛʃəl ɪˈfɛkts ɑr əˈmeɪzɪŋ/. /plʌs/, ðə sin wɛr ðeɪ goʊ aʊt tu ə ˈnaɪtklʌb ɪz ˈkɑmədi gəʊld/."
+        },
+        {
+            "id": "l-3",
+            "speakerName": "Arnold",
+            "text": " \"Exactly! The nightclub scene is one of the funniest things I've ever seen. And don't get me started on the bat-fight scene. That was epic!\"",
+            "audioUrl": "line-4.mp3",
+            "textPhonetics": "/ɪɡˈzæktli/! ðə /ˈnaɪtklʌb/ siːn ɪz wʌn ʌv ðə ˈfʌnɪst θɪŋz aɪv ɛvər siːn. ənd doʊnt ɡɛt mi stɑrtɪd ɑn ðə bæt-faɪt siːn. ðæt wəz ˈɛpɪk!"
+        },
+        {
+            "id": "l-4",
+            "speakerName": "Rachel",
+            "text": " \"Okay, I'll admit that the bat-fight scene was pretty cool. But still, I don't think it's as good as people say it is.\"",
+            "audioUrl": "line-5.mp3",
+            "textPhonetics": "/\"oʊˈkeɪ, aɪl ədˈmɪt ðət ðə bæt-faɪt sin wəz ˈprɪti kul. bət stɪl, aɪ doʊnt θɪŋk ɪts æz ɡʊd æz ˈpipəl seɪ ɪt ɪz.\"/"
+        },
+        {
+            "id": "l-5",
+            "speakerName": "Sam",
+            "text": " \"Well, I guess we'll just have to agree to disagree. But to me, What We Do in the Shadows is a modern classic that every horror and comedy lover should watch at least once.\" ",
+            "audioUrl": "line-6.mp3",
+            "textPhonetics": "/wɛl, ai gɛs wi wɪl ʤʌst hæv tu əˈgri tu ˌdɪsəˈgri. bət tu mi, wɑt wi du ɪn ðə ˈʃædəʊz ɪz ə ˈmɒdən ˈklæsɪk ðæt ˈɛvri ˈhɒrər ænd ˈkɒmədi ˈlʌvər ʃʊd ˈwɒʧ æt liːst wʌns/"
+        },
+        {
+            "id": "l-6",
+            "speakerName": "Arnold",
+            "text": " \"Agreed! It's a vampire tale that brings something new to the genre, and the humor is cleverly interwoven throughout the movie. It's definitely worth watching.\" ",
+            "audioUrl": "line-7.mp3",
+            "textPhonetics": "\"Uh-gree'd! Its uh vam-pire tay-ul that brin-ges suhm-thing new too the juhn-ruh, and the hyoo-mor is kle-vur-lee in-ter-woh-ven uh-thruh-out the moo-vee. Its def-in-it-lee wurth watch-ing.\""
+        },
+        {
+            "id": "l-7",
+            "speakerName": "Rachel",
+            "text": " \"I still disagree, but I can see why people might like it. It's just not my thing.\"",
+            "audioUrl": "line-8.mp3",
+            "textPhonetics": "[ay stɪl ˌdɪsəˈɡri ˈbət aj kæn si waɪ ˈpipəɫ ˈmaɪt laɪk ɪt. ɪts ˈdʒəst nɑt ˈmaɪ θɪŋk.]"
+        }
+    ]
+}

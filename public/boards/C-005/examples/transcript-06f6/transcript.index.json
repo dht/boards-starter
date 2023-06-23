@@ -1,0 +1,27 @@
+{
+    "id": "06f6",
+    "raw": "Arnold: I think the best way to make weeks pass more slowly and make the most out of our time is to focus on enjoying every moment and not rushing things. We can do this by living in the present and taking the time to appreciate the things we have in our lives.\n\nRachel: While that may be true, I think we need to be more productive with our time. Instead of just enjoying the present, we should also set goals and work towards them. This way, we can feel like we are accomplishing something each week and the time won't feel like it's moving too quickly.\n\nSam: I agree with Rachel. We should definitely set goals and work towards them, but we should also make sure to take breaks and enjoy ourselves along the way. I think finding a balance between productivity and relaxation is the key to making the most out of our time and making the weeks feel longer.",
+    "sentences": [
+        {
+            "id": "l-0",
+            "speakerName": "Arnold",
+            "text": " I think the best way to make weeks pass more slowly and make the most out of our time is to focus on enjoying every moment and not rushing things. We can do this by living in the present and taking the time to appreciate the things we have in our lives.",
+            "audioUrl": "line-1.mp3",
+            "textPhonetics": "aɪ θɪŋk ðə bɛst weɪ tu meɪk wiks pæs mɔr sləʊli ənd meɪk ðə məʊst aʊt ʌv aʊr taɪm ɪz tu foʊkəs ɒn ɪnˈdʒɔɪɪŋ ˈɛvri ˈməʊmənt ənd nɒt ˈrʌʃɪŋ θɪŋz. wi kæn du ðɪs baɪ ˈlɪvɪŋ ɪn ðə ˈprɛznt ænd teɪkɪŋ ðə taɪm tu əˈpriːʃieɪt ðə θɪŋz wi hæv ɪn aʊr laɪvz."
+        },
+        {
+            "id": "l-1",
+            "speakerName": "Rachel",
+            "text": " While that may be true, I think we need to be more productive with our time. Instead of just enjoying the present, we should also set goals and work towards them. This way, we can feel like we are accomplishing something each week and the time won't feel like it's moving too quickly.",
+            "audioUrl": "line-2.mp3",
+            "textPhonetics": "/waɪl ðæt meɪ bi tru, aɪ θɪŋk wi nid tu bi mɔr prədʌktɪv wɪð aʊr taɪm. ɪnˈstɛd ʌv dʒʌst ɪnˈdʒɔɪɪŋ ðə ˈprɛznt, wi ʃʊd ɔlsoʊ sɛt goʊlz ənd wɜrk təwɔrdz ðɛm. ðɪs weɪ, wi kæn fil laɪk wi ɑr əkʌmplɪʃɪŋ sʌmθɪŋ itʃ wik ənd ðə taɪm woʊnt fil laɪk ɪts ˈmuvɪŋ tu kʍɪkli.\""
+        },
+        {
+            "id": "l-2",
+            "speakerName": "Sam",
+            "text": " I agree with Rachel. We should definitely set goals and work towards them, but we should also make sure to take breaks and enjoy ourselves along the way. I think finding a balance between productivity and relaxation is the key to making the most out of our time and making the weeks feel longer.",
+            "audioUrl": "line-3.mp3",
+            "textPhonetics": "aɪ əˈɡri wɪð ˈrʌtʃəl. wi ʃʊd ˈdɛfənətli sɛt ɡoʊlz ənd wɜrk təˈwɔrdz ðɛm, bət wi ʃʊd ˈɔlso meɪk ʃʊr tu teɪk breɪks ənd ɪnˈdʒɔɪ arˈsɛlvz əˈlɔŋ ðə weɪ. aɪ θɪŋk ˈfaɪndɪŋ ə ˈbæləns bɪˈtwin prəˌdʌktɪˈvɪti ənd ˌrɛləkˈseɪʃən ɪz ðə ki tu ˈmeɪkɪŋ ðə moʊst ˈaʊt əv ɑr taɪm ənd ˈmeɪkɪŋ ðə wiks fil ˈlɔŋɡər."
+        }
+    ]
+}

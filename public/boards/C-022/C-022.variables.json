@@ -1,0 +1,12 @@
+{
+  "tone": {
+    "id": "tone",
+    "value": "conversation",
+    "options": ["conversation", "argument", "musical"]
+  },
+  "audience": {
+    "id": "audience",
+    "value": "three students",
+    "options": ["three students", "three poets", "three scientists"]
+  }
+}

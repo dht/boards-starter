@@ -1,0 +1,173 @@
+{
+  "id": "com.usegdi.C-022",
+  "boardInfo": {
+    "name": "Model Z Commercial",
+    "imageUrl": "https://gui-guy.com/preview.png",
+    "description": "An ad for a futuristic model Z hovercraft",
+    "fields": [
+      {
+        "label": "input",
+        "content": "Prompt"
+      },
+      {
+        "label": "output",
+        "content": "3d ad"
+      },
+      {
+        "label": "engines",
+        "content": "LLM #1, LLM #2, ElevenLabs"
+      }
+    ],
+    "isPlayback": true,
+    "showIntro": false
+  },
+  "adapters": {
+    "playbackAdapterUrl": "/boards/C-022/adapters/C-022.db.json",
+    "promptAdapterUrl": "/boards/C-022/adapters/C-022.prompt.json",
+    "dbAdapterUrl": "/boards/C-022/adapters/C-022.db.json"
+  },
+  "examplesUrl": "/boards/C-022/C-022.examples.json",
+  "siblingsUrl": "/boards/siblings.json",
+  "dependencies": {
+    "@gdi/store-base": "^0.0.4",
+    "@gdi/ui": "^0.0.1",
+    "@gdi/widgets-starter": "^0.0.6"
+  },
+  "elements": {
+    "default": {
+      "e1": {
+        "id": "e1",
+        "widgetId": "com.usegdi.starter.logo",
+        "title": "Logo",
+        "position": {
+          "x": 2,
+          "y": 2
+        },
+        "dimension": {
+          "x": 20,
+          "y": 6
+        },
+        "boardId": "C-022",
+        "flags": {},
+        "flavour": "hidden"
+      },
+      "e2": {
+        "id": "e2",
+        "widgetId": "com.usegdi.starter.sixty",
+        "title": "sixty",
+        "position": {
+          "x": 1,
+          "y": 1
+        },
+        "dimension": {
+          "x": 121,
+          "y": 47
+        },
+        "boardId": "C-022",
+        "flags": {},
+        "props": {
+          "sceneUrl": "/boards/C-022/scene.modelz.json",
+          "hudUrl": "/boards/C-022/hud.modelz.json"
+        }
+      },
+      "e3": {
+        "id": "e3",
+        "widgetId": "com.usegdi.starter.transcript",
+        "title": "Transcript",
+        "position": {
+          "x": 56,
+          "y": 27
+        },
+        "dimension": {
+          "x": 63,
+          "y": 19
+        },
+        "boardId": "C-022",
+        "flags": {},
+        "flavour": "outcome"
+      },
+      "e4": {
+        "id": "e4",
+        "widgetId": "com.usegdi.starter.flow",
+        "title": "Flow",
+        "position": {
+          "x": 5,
+          "y": 7
+        },
+        "dimension": {
+          "x": 44,
+          "y": 40
+        },
+        "boardId": "C-022",
+        "flags": {},
+        "props": {
+          "nodesUrl": "/boards/C-022/C-022.nodes.json"
+        },
+        "flavour": "hidden"
+      },
+      "e5": {
+        "id": "e5",
+        "widgetId": "com.usegdi.starter.github",
+        "title": "Github",
+        "position": {
+          "x": 52,
+          "y": 44
+        },
+        "dimension": {
+          "x": 1,
+          "y": 1
+        },
+        "boardId": "C-022",
+        "flags": {}
+      },
+      "e8": {
+        "id": "e8",
+        "widgetId": "com.usegdi.starter.logger",
+        "title": "Logger",
+        "position": {
+          "x": 56,
+          "y": 27
+        },
+        "dimension": {
+          "x": 63,
+          "y": 19
+        },
+        "boardId": "C-022",
+        "flags": {},
+        "flavour": "hidden"
+      },
+      "e9": {
+        "id": "e9",
+        "widgetId": "com.usegdi.starter.start-play",
+        "title": "StartPlay",
+        "position": {
+          "x": 56,
+          "y": 27
+        },
+        "dimension": {
+          "x": 63,
+          "y": 19
+        },
+        "boardId": "C-022",
+        "flags": {},
+        "flavour": "hidden"
+      },
+      "e10": {
+        "id": "e10",
+        "widgetId": "com.usegdi.starter.sound-player",
+        "title": "SoundPlayer",
+        "position": {
+          "x": 115,
+          "y": 24
+        },
+        "dimension": {
+          "x": 1,
+          "y": 1
+        },
+        "boardId": "C-022",
+        "flags": {},
+        "flavour": "hidden"
+      }
+    }
+  }
+}
